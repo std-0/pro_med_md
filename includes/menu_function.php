@@ -135,9 +135,9 @@ function menu($title){
                                             <i class="fa fa-globe"></i>
                                         </a>
                                         <div class="dropdown-menu" aria-labelledby="languageDropdownMenu">
-                                            <a class="dropdown-item" href="#">Ro</a>
-                                            <a class="dropdown-item" href="#">Ru</a>
-                                            <a class="dropdown-item" href="#">En</a>
+                                            
+                                            <a class="dropdown-item" href="language/ru">Ru</a>
+                                            <a class="dropdown-item" href="language/en">En</a>
                                         </div>
                                     </li> <br>
                                     <li class="nav-item navbar-btn-resp d-flex align-items-center">
