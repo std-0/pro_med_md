@@ -23,7 +23,7 @@ function services(){
                         <div class="col-lg-4 col-md-6">
                             <div class="services-item">
                                 <div class="icon">
-                                   <img src="../img/services/1.png" class="service_img_icon" alt="">
+                                   <img src="img/services/1.png" class="service_img_icon" alt="">
                                 </div>
                                 <div class="body">
                                     <h6>Miopie</h6>
@@ -37,7 +37,7 @@ function services(){
                         <div class="col-lg-4 col-md-6">
                             <div class="services-item">
                                 <div class="icon">
-                                <img src="../img/services/2.png" class="service_img_icon" alt="">
+                                <img src="img/services/2.png" class="service_img_icon" alt="">
                                 </div>
                                 <div class="body">
                                     <h6>Lentila de noapte</h6>
@@ -51,7 +51,7 @@ function services(){
                         <div class="col-lg-4 col-md-6">
                             <div class="services-item">
                                 <div class="icon">
-                                <img src="../img/services/3.png" class="service_img_icon" alt="">
+                                <img src="img/services/3.png" class="service_img_icon" alt="">
                                 </div>
                                 <div class="body">
                                     <h6>Cataracta</h6>
@@ -65,7 +65,7 @@ function services(){
                         <div class="col-lg-4 col-md-6">
                             <div class="services-item">
                                 <div class="icon">
-                                <img src="../img/services/4.png" class="service_img_icon" alt="">
+                                <img src="img/services/4.png" class="service_img_icon" alt="">
                                 </div>
                                 <div class="body">
                                     <h6>Keratoconus</h6>
@@ -79,7 +79,7 @@ function services(){
                         <div class="col-lg-4 col-md-6">
                             <div class="services-item">
                                 <div class="icon">
-                                <img src="../img/services/5.png" class="service_img_icon" alt="">
+                                <img src="img/services/5.png" class="service_img_icon" alt="">
                                 </div>
                                 <div class="body">
                                     <h6>Operatii oculo-plastice</h6>
@@ -93,7 +93,7 @@ function services(){
                         <div class="col-lg-4 col-md-6">
                             <div class="services-item">
                                 <div class="icon">
-                                <img src="../img/services/6.png" class="service_img_icon" alt="">
+                                <img src="img/services/6.png" class="service_img_icon" alt="">
                                 </div>
                                 <div class="body">
                                     <h6>Tratare Laser</h6>

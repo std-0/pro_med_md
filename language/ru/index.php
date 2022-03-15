@@ -17,14 +17,14 @@
                 <div class="row h-100">
                     <div class="col-md-10 col-lg-7 col-xl-6 h-100">
                         <h1 class="hero-title">
-                            Doctor Oftalmolog
+                            Доктор Офталмолог
                         </h1>
                         <p class="hero-subtitle">
-                            ..Vezi viața cu ochi buni!
+                            ..Смотри на жизнь с хорошими глазами!
                         </p>
                         <div class="hero-btn">
-                            <a href="#services_section" class="primary-button">Vezi servicii<i class="fa fa-arrow-right"></i></a>
-                            <a href="empty.php" class="outline-button">Programare<i class="fa fa-arrow-right"></i></a>
+                            <a href="#services_section" class="primary-button">Посмотреть Услуги<i class="fa fa-arrow-right"></i></a>
+                            <a href="empty.php" class="outline-button">Записаться на приём<i class="fa fa-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -36,16 +36,16 @@
                 <div class="row h-100">
                     <div class="col-md-10 col-lg-7 col-xl-6 h-100">
                         <h1 class="hero-title">
-                            Sănătatea ochilor dumneavoastră este prioritatea noastra
+                            Ваше здоровье глаз является нашим приоритетом
                         </h1>
                         <p class="hero-subtitle">
-                            *Tratarea Miopiei cu lentila Orto-k <br>
-                            *Tratarea cu Laser a afecțiunilor oculare <br>
-                            *Operația Cataractă 
+                            *Лечение миопии с линзой Orto-K<br>
+                            *Лазерное лечение глазных заболеваний <br>
+                            *Операция по удалению катаракты
                         </p>
                         <div class="hero-btn">
-                            <a href="#services_section" class="primary-button">Vezi servicii<i class="fa fa-arrow-right" style="z-index: 111!important;"></i></a>
-                            <a href="empty.php" class="outline-button">Programare<i class="fa fa-arrow-right"></i></a>
+                            <a href="#services_section" class="primary-button">Посмотреть Услуги<i class="fa fa-arrow-right" style="z-index: 111!important;"></i></a>
+                            <a href="empty.php" class="outline-button">Записаться на приём<i class="fa fa-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -72,32 +72,32 @@ services();
                         </div>
                         <div class="col-lg-6 skills-inner">
                             <div class="inner-text">
-                                <h4>De ce să alegi <span>Pro-Med.md</span></h4>
+                                <h4>Почему нужно выбрать <span>Pro-Med.md</span></h4>
                                 <p>
-                                    Suntem responsabili: ne asumăm corectitudinea prescripției pentru ochelari sau lentile de contact. 
+                                   Мы несем ответственность: мы предполагаем правильность рецепта для очков или контактных линз. 
                                 </p>
                             </div>
                             <ul>
                                 <li>
                                     <i class="fas fa-eye"></i></i>
                                     <div class="text">
-                                        <h6>CEL MAI CUPRINZĂTOR ȘI DETALIAT CONSULT AL OCHILOR</h6>
+                                        <h6>Наиболее всесторонняя и подробная консультация для глаз</h6>
                                         <p>
-                                            Minim 25 de minute, 15 etape ale consultului; Evaluarea vederii binoculare (3D); Măsurarea fiecărui parametru individual al ochilor cu iProfiler ZEISS
+                                            Минимум 25 минут, 15 этапов консультаций;Оценка бинокулярного вида (3D);Измерение каждого отдельного параметра глаз с iProfiler Zeiss
                                         </p>
                                     </div>
                                 </li>
                                 <li>
                                     <i class="fas fa-eye"></i></i>
                                     <div class="text">
-                                        <h6>EMPATIE, SERIOZITATE, PROFESIONALISM, SINCERITATE</h6>
+                                        <h6>Сочувствие, серьезность, профессионализм, искренность</h6>
                                         <p>
-                                            Valorile fiecărui membru al colectivului Pro-Med
+                                            Значения каждого члена коллектива Pro-Med
                                         </p>
                                     </div>
                                 </li>
                             </ul>
-                            <a href="#" class="outline-button">Consultație online<i class="fa fa-arrow-right"></i></a>
+                            <a href="#" class="outline-button">Онлайн-консультация<i class="fa fa-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -113,48 +113,45 @@ services();
                         <div class="col-lg-6">
                             <div class="work-process-inner">
                                 <div class="work-process-text">
-                                    <h4>Spune <span>STOP</span> la miopie!</h4>
+                                    <h4>Скажи <span>СТОП</span>Близорукости!</h4>
                                     <p>
-                                       <b>Ortokeratologia constă în adaptarea unei lentile de contact specializate care exercită un efect
-                                         de modelare asupra corneei noaptea</b>, în timp ce dormim . În acest fel, atunci când pacienții îl 
-                                         scot dimineața, pot vedea bine pe tot parcursul zilei fără a avea nevoie de ochelari sau lentile
-                                         de contact.
+                                       Orthogeratology заключается в адаптации специальной контактной линзы, которая оказывает формирующее воздействие на роговицу в ночное время , пока мы спим.
+                                       Таким образом, когда пациенты снимают утром лизы, они могут хорошо видеть в течение дня без необходимости носить очки или контактные линзы..
                                     </p>
                                 </div>
                                 <ul>
                                     <li>
                                         <span>01</span>
                                         <div class="text">
-                                            <h6>Rezultat asteptat:</h6>
+                                            <h6>Ожидаемый результат:</h6>
                                             <p>
-                                            De regulă, vederea este de la 80 la 100% fără ochelari și lentile zilnice. Purtând lentilele noaptea, vezi și 100% în ele. Și asta înseamnă că viziunea ta este întotdeauna ridicată
-                                            </p>
+                                            Как правило, зрение от 80 до 100% без очков и ежедневных линз. Нося линзы ночью, видимость в них 100%. И это означает, что ваше зрение всегда высокого качества  </p>
                                         </div>
                                     </li>
                                     <li>
                                         <span>02</span>
                                         <div class="text">
-                                            <h6>Preț:</h6>
+                                            <h6>Цена:</h6>
                                             <p>
-                                            Deoarece cumpărați o pereche de lentile pe care o veți folosi un an întreg, de obicei este mai ieftină decât lentilele de contact moi lunare pe care le veți cumpăra pe tot parcursul anului!
+                                            Поскольку вы покупаете пару линз, которые вы будете использовать целый год, обычно дешевле, чем ежемесячные мягкие контактные линзы, которые вы будете покупать в течение года!
                                             </p>
                                         </div>
                                     </li>
                                     <li>
                                         <span>03</span>
                                         <div class="text">
-                                            <h6>Cât durează efectul lentilelor de ortokeratologie?</h6>
+                                            <h6>Сколько времени занимает эффект Ортокератологий?</h6>
                                             <p>
-                                            Ar trebui să vezi bine fără ochelari și lentile de contact zilnice pe tot parcursul zilei și chiar două zile, uneori mai lungi. Cel mai bun și mai stabil rezultat de corecție va fi observat dacă purtați lentile în fiecare noapte.
+                                            Вы должны хорошо видеть без очков и ежедневных контактных линз в течение дня и даже два дня, иногда дольше.Лучший и самый стабильный результат коррекции будет замечен, если вы носите линзы каждую ночь.
                                             </p>
                                         </div>
                                     </li>
                                     <li>
                                         <span>04</span>
                                         <div class="text">
-                                            <h6>Ce probleme de vedere pot rezolva lentilele de ortokeratologie?</h6>
+                                            <h6>Какие проблемы со зрением могут решить Ортокератологические линзы?</h6>
                                             <p>
-                                            Cel mai adesea, lentilele orto sunt folosite pentru corectarea temporară a miopiei până la -6.0 dioptrii .
+                                            Чаще всего Ortho линзы используются для временной коррекции миопии до -6,0 диоптрий .
                                             </p>
                                         </div>
                                     </li>
@@ -196,9 +193,9 @@ services();
                     <div class="row justify-content-center">
                         <div class="col-lg-6">
                             <div class="section-heading">
-                                <h2 class="section-title">Echipament <span>Modern</span></h2>
+                                <h2 class="section-title">Современное <span>Оборудование</span></h2>
                                 <p class="section-text">
-                                Oferim servicii de diagnosticare calificată la oftalmolog cu cel mai modern echipament , care oferă ceam mai buna asistență medicală profilactică, de diagnosticare și tratament.
+                                Мы предлагаем квалифицированные диагностические услуги на самом современном оборудовании, которые предлагают лучшую профилактическую медицинскую помощь, диагностику и лечение.
                                 </p>
                             </div>
                         </div>
@@ -211,7 +208,7 @@ services();
                                         <img src="img/echipament/01.png" alt="Team image" class="img-fluid" />
                                     </div>
                                     <div class="body">
-                                        <h6>Biomicroscop oftalmologic</h6>
+                                        <h6>Офтальмологический биомикроскоп</h6>
                                        
                                     </div>
                                 </div>
@@ -223,7 +220,7 @@ services();
                                         
                                     </div>
                                     <div class="body">
-                                        <h6>Plusoptix</h6>
+                                        <h6>Плюсоптикс</h6>
                                        
                                     </div>
                                 </div>
@@ -235,7 +232,7 @@ services();
                                        
                                     </div>
                                     <div class="body">
-                                        <h6>Lupa binoculară</h6>
+                                        <h6>Бинокулярная лупа</h6>
                                        
                                     </div>
                                 </div>
@@ -247,7 +244,7 @@ services();
                                        
                                     </div>
                                     <div class="body">
-                                        <h6>Microscop Operator</h6>
+                                        <h6>Операторский микроскоп</h6>
                                         
                                     </div>
                                 </div>
@@ -280,7 +277,7 @@ services();
                                         <img src="img/echipament/07.png" alt="Team image" class="img-fluid" />
                                     </div>
                                     <div class="body">
-                                        <h6>Tonometru Non-contact cu Pahimetru TX-20P</h6>
+                                        <h6>Бесконтактный тонометр с пахометром ТХ-20П</h6>
                                         
                                     </div>
                                 </div>
@@ -291,7 +288,7 @@ services();
                                         <img src="img/echipament/08.png" alt="Team image" class="img-fluid" />
                                     </div>
                                     <div class="body">
-                                        <h6>Perimetru computerizat PTS-1000</h6>
+                                        <h6>Компьютеризированный периметр ПТС-1000</h6>
                                         
                                     </div>
                                 </div>
@@ -302,7 +299,7 @@ services();
                                         <img src="img/echipament/09.png" alt="Team image" class="img-fluid" />
                                     </div>
                                     <div class="body">
-                                        <h6>Autorefractometru HRK-7000A</h6>
+                                        <h6>Авторефрактометр HRK-7000A</h6>
                                         
                                     </div>
                                 </div>

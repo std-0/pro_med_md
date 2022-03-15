@@ -14,7 +14,7 @@
                                 <h1>DESPRE NOI</h1>
                                 <ul class="breadcrumb-links">
                                     <li>
-                                        <a href="index.php">Pricipală</a>
+                                        <a href="index.php">Principală</a>
                                     </li>
                                     <li class="active">
                                     Despre Noi

@@ -105,7 +105,7 @@ function menu($title){
                             <div class="collapse navbar-collapse main-menu justify-content-end" id="fixedNavbar">
                                 <ul class="navbar-nav">
                                     <li class="nav-item">
-                                        <a class="nav-link" href="index.php">Principlă</a>
+                                        <a class="nav-link" href="index.php">Principală</a>
                                     </li>
                                    
                                     <li class="nav-item dropdown">
