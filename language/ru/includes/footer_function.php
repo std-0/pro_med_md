@@ -8,11 +8,11 @@ function footer(){
                 <div id="footer-top">
                     <div class="container">
                         <div class="row">
-                            <div class="col-md-6 col-lg-3">
+                            <div class="col-md-8 col-lg-3">
                                 <div class="footer-widget">
-                                    <h5>Contact</h5>
+                                    <h5>Контакт</h5>
                                     <p>
-                                        Pentru mai multe informații contactați-ne:
+                                        Чтобы получить больше информации - свяжитесь с нами:
                                     </p>
                                     <ul class="footer-contact-info">
                                         <li>
@@ -23,7 +23,7 @@ function footer(){
                                         </li>
                                         <li>
                                         <i class="fa fa-map-marker" aria-hidden="true"></i>
-                                            <a href="https://www.google.com/maps/place/Strada+Ion+Creangă+24,+Chișinău,+Молдавия/@47.0364913,28.8088124,17z/data=!3m1!4b1!4m5!3m4!1s0x40c97dbf6f305e5d:0x3a6804574f0c0cd5!8m2!3d47.0364913!4d28.8110064?hl=ru&authuser=0" target="_blank"><span>str.I.Creangă 24/1</span></a> 
+                                            <a href="https://www.google.com/maps/place/Strada+Ion+Creangă+24,+Chișinău,+Молдавия/@47.0364913,28.8088124,17z/data=!3m1!4b1!4m5!3m4!1s0x40c97dbf6f305e5d:0x3a6804574f0c0cd5!8m2!3d47.0364913!4d28.8110064?hl=ru&authuser=0" target="_blank"><span>ул.И.Креангэ 24/1</span></a> 
                                         </li>
                                         <li>
                                             <i class="fa fa-phone"></i>
@@ -31,7 +31,7 @@ function footer(){
                                         </li>
                                         <li>
                                         <i class="fa fa-map-marker" aria-hidden="true"></i>
-                                            <a href="https://www.google.com/maps/place/Strada+Nicolae+H.+Costin+13,+Chișinău+2051,+Молдавия/@47.0337652,28.7887152,17z/data=!3m1!4b1!4m5!3m4!1s0x40c97deee7df3ed3:0xb009f7cc225f3ccd!8m2!3d47.0337652!4d28.7909092?hl=ru&authuser=0" target="_blank" ><span>str.M.Costin 13/1</span></a> 
+                                            <a href="https://www.google.com/maps/place/Strada+Nicolae+H.+Costin+13,+Chișinău+2051,+Молдавия/@47.0337652,28.7887152,17z/data=!3m1!4b1!4m5!3m4!1s0x40c97deee7df3ed3:0xb009f7cc225f3ccd!8m2!3d47.0337652!4d28.7909092?hl=ru&authuser=0" target="_blank" ><span>ул.М.Костин 13/1</span></a> 
                                         </li>
                                         <li>
                                             <i class="fa fa-phone"></i>
@@ -41,58 +41,66 @@ function footer(){
                                     </ul>
                                 </div>
                             </div>
-                            <div class="col-md-6 col-lg-3">
+                            <div class="col-md-8 col-lg-3">
                                 <div class="footer-widget">
-                                    <h5>Link-uri utile</h5>
+                                    <h5>Полезные ссылки</h5>
                                     <ul class="footer-links">
                                         <li>
-                                            <a href="index.php">Principală</a>
+                                            <a href="index.php">Главная</a>
                                         </li>
                                         <li>
-                                            <a href="about-us.php">Despre Noi</a>
+                                            <a href="about-us.php">О нас</a>
                                         </li>
                                         <li>
-                                            <a href="empty.php">Consultare Online</a>
+                                            <a href="empty.php">Онлайн-консультация</a>
                                         </li>
                                         
                                     </ul>
                                 </div>
                             </div>
-                            <div class="col-md-6 col-lg-3">
+                            <div class="col-md-8 col-lg-3">
                                 <div class="footer-widget">
-                                    <h5>Operații Oflalmologice</h5>
+                                    <h5>Офтальмологические операции</h5>
                                     <ul class="footer-links">
                                         <li>
-                                            <a href="service-trei.php">Operații de Cataractă</a>
+                                            <a href="service-trei.php">Операции катаракты</a>
                                         </li>
                                         <li>
-                                            <a href="service-patru.php">Keratoconus</a>
+                                            <a href="service-patru.php">Кератоконус</a>
                                         </li>
                                         <li>
-                                            <a href="service-cinci.php">Operații Oculo-Plastice</a>
+                                            <a href="service-cinci.php">Окулопластические операции</a>
                                         </li>
-                                        
+                                        <li>
+                                            <a href="service-one.php">Лечение миопии</a>
+                                        </li>
+                                        <li>
+                                            <a href="service-ss.php">Лазерные процедуры</a>
+                                        </li>
+                                        <li>
+                                            <a href="empty.php">Офтальмологические консультации</a>
+                                        </li>
                                     </ul>
                                 </div>
                             </div>
 
-                            <div class="col-md-6 col-lg-3">
+                            <!-- <div class="col-md-6 col-lg-3">
                                 <div class="footer-widget">
-                                    <h5>Operații Oflalmologice</h5>
+                                    <h5>Офтальмологические операции</h5>
                                     <ul class="footer-links">
                                         <li>
-                                            <a href="empty.php">Consultații Oftalmologice</a>
+                                            <a href="empty.php">Офтальмологические консультации</a>
                                         </li>
                                         <li>
-                                            <a href="service-one.php">Tratarea Miopiei</a>
+                                            <a href="service-one.php">Лечение миопии</a>
                                         </li>
                                         <li>
-                                            <a href="service-ss.php">Tratamente Laser</a>
+                                            <a href="service-ss.php">Лазерные процедуры</a>
                                         </li>
                                         
                                     </ul>
                                 </div>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>
@@ -102,7 +110,7 @@ function footer(){
                         <div class="row align-items-center">
                             <div class="col-md-6">
                                 <p class="copyright-text">
-                                    &copy; 2022.Toate drepturile rezervate.Creat de <a href="https://artweb.md">ArtWeb</a>
+                                    &copy; 2022.Все права защищены. Разработано <a href="https://artweb.md">ArtWeb</a>
                                 </p>
                             </div>
                             <div class="col-md-6">

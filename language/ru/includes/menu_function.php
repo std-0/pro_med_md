@@ -57,7 +57,7 @@ function menu($title){
                                 <div class="nav-info-box">
                                 <i class="fa fa-map-marker" aria-hidden="true"></i>
                                         <a href="https://www.google.com/maps/place/Strada+Ion+Creangă+24,+Chișinău,+Молдавия/@47.0364913,28.8088124,17z/data=!3m1!4b1!4m5!3m4!1s0x40c97dbf6f305e5d:0x3a6804574f0c0cd5!8m2!3d47.0364913!4d28.8110064?hl=ru&authuser=0" target="_blank">
-                                         <span>str.I.Creangă 24/1</span></a> 
+                                         <span>ул.И.Креангэ 24/1</span></a> 
                                    
                                 </div>
                                 <div class="nav-info-box">
@@ -70,7 +70,7 @@ function menu($title){
                                 <div class="nav-info-box">
                                 <i class="fa fa-map-marker" aria-hidden="true"></i>
                                     <a href="https://www.google.com/maps/place/Strada+Nicolae+H.+Costin+13,+Chișinău+2051,+Молдавия/@47.0337652,28.7887152,17z/data=!3m1!4b1!4m5!3m4!1s0x40c97deee7df3ed3:0xb009f7cc225f3ccd!8m2!3d47.0337652!4d28.7909092?hl=ru&authuser=0" target="_blank" >
-                                    <span>str.M.Costin 13/1</span></a> 
+                                    <span>ул.М.Костин 13/1</span></a> 
                                    
                                 </div>
                                 <div class="nav-info-box">
@@ -105,30 +105,30 @@ function menu($title){
                             <div class="collapse navbar-collapse main-menu justify-content-end" id="fixedNavbar">
                                 <ul class="navbar-nav">
                                     <li class="nav-item">
-                                        <a class="nav-link" href="index.php">Principlă</a>
+                                        <a class="nav-link" href="index.php">Главная</a>
                                     </li>
                                    
                                     <li class="nav-item dropdown">
                                         <a class="nav-link dropdown-toggle" href="#" id="operatii" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                            Operații oftalmologice
+                                            Офтальмологические операции
                                         </a>
                                         <div class="dropdown-menu" aria-labelledby="operatii">
-                                            <a class="dropdown-item" href="service-trei.php">Operatii de cataracta</a>
-                                            <a class="dropdown-item" href="service-patru.php">Keratoconus</a>
-                                            <a class="dropdown-item" href="service-cinci.php">Operatii oculo-plastice</a>
-                                            <a class="dropdown-item" href="empty.php">Consultatii oftalmologice</a>
-                                            <a class="dropdown-item" href="service-one.php">Tratarea miopiei</a>
-                                            <a class="dropdown-item" href="service-ss.php">Tratamente Laser</a>
+                                            <a class="dropdown-item" href="service-trei.php">Операции катаракты</a>
+                                            <a class="dropdown-item" href="service-patru.php">Кератоконус</a>
+                                            <a class="dropdown-item" href="service-cinci.php">Оккулопластические операции</a>
+                                            <a class="dropdown-item" href="empty.php">Офтальмологические консультации </a>
+                                            <a class="dropdown-item" href="service-one.php">Лечение миопии</a>
+                                            <a class="dropdown-item" href="service-ss.php">Лазерные процедуры</a>
                                         </div>
                                     </li>
                                     
                                     <li class="nav-item">
-                                        <a class="nav-link" href="about-us.php">Despre noi</a>
+                                        <a class="nav-link" href="about-us.php">О нас</a>
                                     </li>
 
                                     
                                     <li class="nav-item">
-                                        <a class="nav-link" href="medical_optic.php">Optică Medicală</a>
+                                        <a class="nav-link" href="medical_optic.php">Медицинская оптика</a>
                                     </li>
                                     <li class="nav-item dropdown">
                                         <a class="nav-link dropdown-toggle" href="index-default-rtl.html#" id="languageDropdownMenu" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -141,7 +141,7 @@ function menu($title){
                                         </div>
                                     </li> <br>
                                     <li class="nav-item navbar-btn-resp d-flex align-items-center">
-                                        <a href="empty.php" class="outline-button">Consultare Online</a>
+                                        <a href="empty.php" class="outline-button">Онлайн-консультация</a>
                                     </li> 
                                     <br>
                                     
