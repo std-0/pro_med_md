@@ -11,13 +11,13 @@
                     <div class="row justify-content-center">
                         <div class="col-lg-8">
                             <div class="breadcrumb-inner">
-                                <h1>Operatii Oculo-Plastice</h1>
+                                <h1>Оккулопластические операции</h1>
                                 <ul class="breadcrumb-links">
                                     <li>
-                                        <a href="index.php">Pricipală</a>
+                                        <a href="index.php">Главная</a>
                                     </li>
                                     <li class="active">
-                                    Operatii Oculo-Plastice
+                                    Оккулопластические операции
                                     </li>
                                 </ul>
                             </div>
@@ -33,16 +33,13 @@
                     <div class="row">
                         <div class="col-lg-6 services-detail-inner">
                             <div class="services-detail-text">
-                                <h5>Prezentare generală a chirurgiei Oculo-Plastice</h5>
+                                <h5>Обзор окуло-пластической хирургии</h5>
                                 <p>
-                                Orice intervenție chirurgicală efectuată pentru a corecta deformările și/sau malformațiile ochilor și ale componentelor înconjurătoare poate fi denumită chirurgie oculoplastică. Sunt incluse structuri precum orbitul osos al ochiului, pleoapele și canalele lacrimale, precum și obrajii și pielea din zona adiacentă.                                </p>
+                                Любая операция, выполняемая для исправления деформаций и/или пороков развития глаз и окружающих их компонентов, может называться окулопластической операцией. В него входят такие структуры, как костная орбита глаза, веки и слезные протоки, а также щеки и кожа в прилегающей области.                                <p>
+                                Комбинация реконструкции и пластической хирургии может быть выполнена специалистами-офтальмологами или хирургами-офтальмологами для восстановления функции и формы вовлеченных тканей. Окулопластические операции можно классифицировать как функциональные и реконструктивные операции век, операции слезоотводящих путей и косметические хирургические и нехирургические операции.                                </p>
+                                <h6> Направления </h6>
                                 <p>
-                                O combinație de reconstrucție și chirurgie plastică poate fi efectuată de oftalmologi specializați sau chirurgi oculoplastici pentru a restabili funcția și forma țesuturilor implicate. Procedurile oculoplastice pot fi clasificate ca operații funcționale și reconstructive ale pleoapelor, operații ale canalului lacrimal și operații cosmetice chirurgicale și nechirurgicale. 
-                                </p>
-                                <h6> Indicații </h6>
-                                <p>
-                                Există multe afecțiuni care justifică intervenția chirurgicală oculoplastică. Leziunile sau anomaliile ochiului însuși, sprâncenele, pleoapele, orbitele, obrajii și fruntea sunt principalele indicații pentru chirurgia oculoplastică.
-                                Anomaliile faciale sau ale frunții includ cancere și excrescențe în jurul sau în ochi, ptoză (adică pleoapele căzute), slăbiciune a mușchilor faciali cauzată de afecțiuni precum paralizia lui Bell sau probleme oculare care apar din boli precum boala Grave.
+                                Есть много условий, которые оправдывают окулопластическую операцию. Поражения или аномалии самого глаза, бровей, век, орбит, щек и лба являются основными показаниями к окулопластике. Аномалии лица или лба включают рак и новообразования вокруг глаз или в них, птоз (опущение век), слабость лицевых мышц, вызванную такими состояниями, как паралич Белла, или проблемы с глазами, вызванные такими заболеваниями, как болезнь Грейвса.
                                </p>
                             </div>
                                 
@@ -55,28 +52,18 @@
                     </div>
                 </div>
                 <div class="container">
-                    <h5 style="text-align: center;margin: 20px 0px 40px 0px;">Chirurgie funcțională și reconstructivă a pleoapelor</h5>
+                    <h5 style="text-align: center;margin: 20px 0px 40px 0px;">Функциональная и реконструктивная хирургия век</h5>
                     <div class="row" style="justify-content: center;">
 
                         <div class="col-lg-12 services-detail-inner">
                             <ul class="services-list">
                                 <li>
                                     <i class="fa fa-minus"></i>
-                                        <span>Chirurgia oculoplastică funcțională și reconstructivă se concentrează pe tratamentul și corectarea ptozei,
-                                             a pleoapelor mal poziționate, a reconstrucției pleoapelor după leziuni, a leziunilor pleoapelor și a paraliziei Bell.
-                                              Ptoza poate fi congenitală sau dobândită din cauza unor afecțiuni precum bătrânețea sau utilizarea pe termen lung a 
-                                              lentilelor de contact, precum și leziunile plexului cervical. <br>
-                                               Abordările luate în considerare pentru corectarea ptozei 
-                                              depind de amploarea căderii pleoapelor, iar majoritatea pacienților se recuperează destul de repede de la intervenție chirurgicală.
+                                        <span>Функциональная и реконструктивная окулопластическая хирургия направлена ​​на лечение и коррекцию птоза, неправильного положения век, реконструкцию век после травм, травм век и паралича Белла. Птоз может быть врожденным или приобретенным вследствие таких состояний, как пожилой возраст или длительное использование контактных линз, а также травм шейного сплетения. <br>
+                                        Подходы, рассматриваемые для исправления птоза, зависят от степени опущения века, и большинство пациентов довольно быстро восстанавливаются после операции.
                                               <br>
-                                              Pleoapele poziționate inadecvat pot fi văzute ca întoarcerea (adică entropionul) sau în afara (adică ectropionul) a pleoapelor.
-                                               Acest lucru necesită o intervenție chirurgicală pentru a readuce pleoapele în poziția lor fiziologică pentru a funcționa în capacitatea lor normală, 
-                                               care protejează suprafața ochilor. Îndepărtarea tumorilor de pe pleoape, sau leziunile care decurg din traumatisme, sunt adesea indicații 
-                                               pentru intervenția chirurgicală funcțională și reconstructivă a pleoapelor cu ajutorul grefelor de țesut și a lambourilor. <br>
-                                               Chisturile, orzicul, alunițele și etichetele cutanate sunt printre cele mai frecvente leziuni benigne care necesită îndepărtarea de pe pleoape.
-                                                La pacienții cu paralizie Bell, afectarea celui de-al șaptelea nerv cranian poate duce la slăbiciune a feței, afectând uni sau bilateral 
-                                                capacitatea de a clipi și de a închide pleoapele. Atât tehnicile chirurgicale, cât și cele nechirurgicale pot fi folosite pentru
-                                                a îmbunătăți funcționalitatea pleoapelor, precum și simptomele.
+                                              Неправильное положение век может быть замечено как поворот (т.е. энтропион) или наружу (т.е. эктропион) век. Это требует хирургического вмешательства, чтобы вернуть веки в их физиологическое положение, чтобы они функционировали в нормальном режиме, что защищает поверхность глаз. Удаление новообразований век или повреждений, полученных в результате травм, часто являются показаниями к функциональной и реконструктивной хирургии век с помощью тканевых трансплантатов и лоскутов. <br>
+                                              Кисты, крапивница, родинки и кожные бородавки являются одними из наиболее распространенных доброкачественных поражений, требующих удаления с век. У пациентов с параличом Белла повреждение седьмого черепного нерва может привести к слабости лица, влияя на одностороннюю или двустороннюю способность моргать и закрывать веки. Как хирургические, так и нехирургические методы могут использоваться для улучшения функции век, а также симптомов.
                                             </span>
                                        
                                     </li>
@@ -95,24 +82,22 @@
                     <div class="row">
                         <div class="col-lg-6 services-detail-inner">
                             <div class="services-detail-text">
-                                <h5>Obstrucția canalului lacrimal</h5>
-                              <p>Intervențiile chirurgicale ale canalelor lacrimale sau lacrimale sunt necesare atunci când există leziuni ale permeabilității sau 
-                                  obstrucție a canalelor, care drenează suprafețele ochilor. Unii pacienți pot avea obstrucția canalelor lacrimale de mulți ani fără semne majore,
-                                   dar există un risc semnificativ crescut de formare a abceselor și infecție acută a sacului lacrimal.</p>
+                                <h5>Непроходимость слезного канала</h5>
+                              <p>Хирургия слезных или слезоотводящих путей необходима при нарушении проходимости или непроходимости каналов, дренирующих поверхности глаз. У некоторых пациентов может наблюдаться обструкция слезных путей в течение многих лет без серьезных симптомов, но существует значительно повышенный риск образования абсцесса и острой инфекции слезного мешка.</p>
 
-                               <p>Dacă, de exemplu, există o infecție acută a sacului lacrimal, atunci se administrează antibiotice timp de aproximativ o săptămână. 
-                                   Aceasta poate fi urmată de o intervenție chirurgicală pentru a trata obstrucția ductului lacrimal care se deschide de obicei în cavitatea nazală.
-                                    Aici este creat un nou pasaj pentru ca lacrimile să se scurgă ușor</p>
+                               <p>Если, например, имеется острая инфекция слезного мешка, то антибиотики назначают около недели.
+                                   За этим может последовать хирургическое вмешательство для лечения закупорки слезного протока, который обычно открывается в полость носа.
+                                    Здесь создан новый проход, чтобы слезы могли легко течь</p>
 
-                                    <h5>Operatii cosmetice chirurgicale si nechirurgicale</h5>
+                                    <h5>Хирургические и безоперационные косметические операции</h5>
                                     <p>
-                                    Operațiile cosmetice chirurgicale pot fi folosite pentru blefaroplastie, care se face pentru a repara forma și tonul pleoapelor care se lasă și se 
-                                    slăbesc pe măsură ce îmbătrânim. Mușchiul lax, grăsimea bombată și excesul de piele pot fi îndepărtate pentru a obține efectul dorit - un aspect mai tânăr.
+                                    Косметическая хирургия может быть использована для блефаропластики, которая проводится для восстановления формы и тонуса обвисших век.
+                                    мы теряем вес с возрастом. Дряблые мышцы, выпуклый жир и лишнюю кожу можно удалить для достижения желаемого эффекта - более молодого вида.
                                     </p>
                                     <p>
-                                    Pe lângă blefaroplastie, există și liftingul feței a sprâncenelor și a frunții, precum și îmbunătățirea pliului pleoapelor. 
-                                    Pacienții care optează pentru căile cosmetice nechirurgicale pot utiliza umpluturi dermice (de exemplu, geluri hialuronice), 
-                                    neuromodulatoare (de exemplu, Botox) și grefe de grăsime injectabile și/sau transferuri de la abdomen pe față.
+                                    Кроме блефаропластики, есть еще подтяжка бровей и лба, а также улучшение складки век.
+                                    Пациенты, которые выбирают нехирургические косметические пути, могут использовать дермальные наполнители (например, гиалуроновые гели),
+                                    нейромодуляторы (например, ботокс) и инъекционные жировые трансплантаты и/или трансплантация живота на лицо.
                                     </p>
 
                              
@@ -134,7 +119,7 @@
                 <br> 
                 <div class="row">
                     <div class="col-12" style="text-align: center;">
-                        <a href="empty.php" class="primary-button">Consultare Online </a>
+                        <a href="empty.php" class="primary-button">Онлайн-консультация </a>
                     </div>
                 </div>
             </section>

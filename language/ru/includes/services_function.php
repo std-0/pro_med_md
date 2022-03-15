@@ -11,7 +11,7 @@ function services(){
                     <div class="row justify-content-center">
                         <div class="col-lg-6">
                             <div class="section-heading">
-                                <h2 class="section-title">Serviciile<span>noastre</span></h2>
+                                <h2 class="section-title">Наши<span>Услуги</span></h2>
                                 <!-- <p class="section-text">
                                     It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
                                 </p> -->
@@ -26,11 +26,11 @@ function services(){
                                    <img src="img/services/1.png" class="service_img_icon" alt="">
                                 </div>
                                 <div class="body">
-                                    <h6>Miopie</h6>
+                                    <h6>Близорукость</h6>
                                     <p>
-                                    Miopia este o afecţiune a vederii, care se caracterizează prin imposibilitatea de a distinge clar obiectele ce sînt situate la o distanță mare.
+                                    Близорукость – это состояние зрения, которое характеризуется неспособностью четко различать предметы, находящиеся на большом расстоянии.
                                     </p>
-                                    <a href="service-one.php">Vezi Detalii<i class="fa fa-arrow-right"></i></a>
+                                    <a href="service-one.php">Посмотреть детали<i class="fa fa-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -40,11 +40,11 @@ function services(){
                                 <img src="img/services/2.png" class="service_img_icon" alt="">
                                 </div>
                                 <div class="body">
-                                    <h6>Lentila de noapte</h6>
+                                    <h6>Ночные линзы</h6>
                                     <p>
-                                        <b>ProMed</b> vine cu ceva inovativ! Uită de ochelari sau lentile de contact! Poartă acestă lentilă în timpul nopții, și uită de ochelari pe tot parcursul zilei!
+                                        <b>ProMed</b> приходит с чем-то инновационным! Забудьте об очках и контактных линзах! Носите эти линзы на ночь и забудьте об очках на весь день!
                                     </p>
-                                    <a href="service-doi.php">Vezi Detalii<i class="fa fa-arrow-right"></i></a>
+                                    <a href="service-doi.php">Посмотреть детали<i class="fa fa-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -54,11 +54,11 @@ function services(){
                                 <img src="img/services/3.png" class="service_img_icon" alt="">
                                 </div>
                                 <div class="body">
-                                    <h6>Cataracta</h6>
+                                    <h6>Катаракта</h6>
                                     <p>
                                     Vederea afectată de cataractă poate fi tratată cu ajutorul unei noi perechi de ochelari cu o iluminare mult mai puternică.
                                     </p>
-                                    <a href="service-trei.php">Vezi Detalii<i class="fa fa-arrow-right"></i></a>
+                                    <a href="service-trei.php">Посмотреть детали<i class="fa fa-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -68,11 +68,11 @@ function services(){
                                 <img src="img/services/4.png" class="service_img_icon" alt="">
                                 </div>
                                 <div class="body">
-                                    <h6>Keratoconus</h6>
+                                    <h6>Кератоконус</h6>
                                     <p>
-                                    Centrul nostru de oftalmologie a fost primul centru care a introdus în R. Moldova crosslinking-ul corneean – tratament chirurgical. 
+                                    Наш офтальмологический центр был первым центром, который ввел сшивание роговицы - хирургическое лечение. 
                                     </p>
-                                    <a href="service-patru.php">Vezi Detalii<i class="fa fa-arrow-right"></i></a>
+                                    <a href="service-patru.php">Посмотреть детали<i class="fa fa-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -82,11 +82,12 @@ function services(){
                                 <img src="img/services/5.png" class="service_img_icon" alt="">
                                 </div>
                                 <div class="body">
-                                    <h6>Operatii oculo-plastice</h6>
+                                    <h6>Оккулопластические операции</h6>
                                     <p>
-                                     Operațiile oculo-plastice reprezinta „piele in exces” la nivelul pleoapei superioare, determinat de inaintarea in varsta.
+                                     Оценопластические операции это «избыток кожи»  <br>  на верхнем веке, вызванный старением. 
+                                     <br>
                                     </p>
-                                    <a href="service-cinci.php">Vezi Detalii<i class="fa fa-arrow-right"></i></a>
+                                    <a href="service-cinci.php">Посмотреть детали<i class="fa fa-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -96,11 +97,11 @@ function services(){
                                 <img src="img/services/6.png" class="service_img_icon" alt="">
                                 </div>
                                 <div class="body">
-                                    <h6>Tratare Laser</h6>
+                                    <h6>Лазерное лечение</h6>
                                     <p>
-                                    Folosirea echipamentului modern, inclusiv Laserului pentru tratarea unor afecțiuni oculare, fără necesitate chirurgicală
+                                    Используя современное оборудование, включая лазер для лечения глазных расстройств, без хирургической необходимости
                                     </p>
-                                    <a href="service-ss.php">Vezi Detalii<i class="fa fa-arrow-right"></i></a>
+                                    <a href="service-ss.php">Посмотреть детали<i class="fa fa-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>

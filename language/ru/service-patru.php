@@ -11,13 +11,13 @@
                     <div class="row justify-content-center">
                         <div class="col-lg-8">
                             <div class="breadcrumb-inner">
-                                <h1>Keratoconus</h1>
+                                <h1>Кератоконус</h1>
                                 <ul class="breadcrumb-links">
                                     <li>
-                                        <a href="index.php">Pricipală</a>
+                                        <a href="index.php">Главная</a>
                                     </li>
                                     <li class="active">
-                                        Keratoconus
+                                    Кератоконус
                                     </li>
                                 </ul>
                             </div>
@@ -33,13 +33,13 @@
                     <div class="row">
                         <div class="col-lg-6 services-detail-inner">
                             <div class="services-detail-text">
-                                <h5>Keratoconus:</h5>
+                                <h5>Кератоконус:</h5>
                                 <p>
-                                O boală degenerativă neinflamatoare a ochiului în care corneea se subțiază și capătă o formă conică. Keratoconul poate duce la tulburări vizuale severe. Cel mai adesea, pacienții se plâng de fotofobie, vedere dublă, murdărie a imaginii. Boala este cea mai comună formă de distrofie a corneei. Keratoconusul afectează aproximativ o persoană din o mie, indiferent de naționalitate și de locul de reședință. Diagnosticul se pune de obicei în adolescență, iar cursul bolii atinge stadiul cel mai sever la vârsta de douăzeci sau treizeci de ani.
+                                Невоспалительное дегенеративное заболевание глаза, при котором роговица истончается и принимает коническую форму. Кератоконус может привести к серьезным нарушениям зрения. Чаще всего больные жалуются на светобоязнь, двоение в глазах, грязь изображения. Заболевание является наиболее распространенной формой дистрофии роговицы. Кератоконусом страдает примерно один человек из тысячи, вне зависимости от национальности и места жительства. Диагноз обычно ставится в подростковом возрасте, а наиболее тяжелой стадии течение болезни достигает в возрасте двадцати-тридцати лет.
                                 </p>
                                 <p>
-                                Până acum, keratoconusul rămâne o boală puțin studiată, cauzele apariției sale sunt neclare și, de asemenea, nu este posibil să se prezică cursul bolii după diagnostic. Odată cu dezvoltarea keratoconusului la ambii ochi, o persoană poate pierde capacitatea de a conduce o mașină și chiar de a citi texte tipărite într-un font tradițional.
-                                Aproape niciodată keratoconul duce la orbire completă și, în majoritatea cazurilor, vederea poate fi îmbunătățită semnificativ cu ajutorul lentilelor de contact. Dacă boala progresează într-un stadiu mai sever, poate fi necesară o intervenție chirurgicală. Rămânând un mister pentru medici, keratoconusul nu mai reprezintă o problemă pentru pacienți la fel de gravă precum era înainte de dezvoltarea metodelor de terapie, corectarea contactului și apariția microchirurgiei.
+                                До настоящего времени кератоконус остается малоизученным заболеванием, причины его возникновения неясны, также не представляется возможным прогнозировать течение заболевания после постановки диагноза. При развитии кератоконуса на оба глаза человек может потерять способность управлять автомобилем и даже читать тексты, напечатанные традиционным шрифтом.
+                                Кератоконус почти никогда не приводит к полной слепоте, и в большинстве случаев зрение можно значительно улучшить с помощью контактных линз. Если заболевание переходит в более тяжелую стадию, может потребоваться хирургическое вмешательство. Оставаясь загадкой для врачей, кератоконус уже не является проблемой для пациентов в такой тяжелой форме, как это было до разработки методов терапии, контактной коррекции и появления микрохирургии..
                                 </p>
                             </div>
                                 
@@ -52,14 +52,14 @@
                     </div>
                 </div>
                 <div class="container">
-                    <h5 style="text-align: center;margin: 20px 0px 40px 0px;">Care sunt factorii de risc pentru keratoconus?</h5>
+                    <h5 style="text-align: center;margin: 20px 0px 40px 0px;">Каковы факторы риска кератоконуса?</h5>
                     <div class="row" style="justify-content: center;">
 
                         <div class="col-lg-3 services-detail-inner">
                             <ul class="services-list">
                                 <li>
                                     <i class="fa fa-minus"></i>
-                                        <span><b>Genetica.</b> Pacienții cu antecedente familiale de keratoconus sau cu anumite tulburări sistemice, cum ar fi sindromul Down, prezintă un risc mai mare de a dezvolta keratoconus.</span>
+                                        <span><b>Генетика.</b> Пациенты с семейным анамнезом кератоконуса или некоторыми системными заболеваниями, такими как синдром Дауна, имеют более высокий риск развития кератоконуса.</span>
                                         <br><br>
                                     </li>
                                
@@ -71,7 +71,7 @@
                             <ul class="services-list">
                                 <li>
                                     <i class="fa fa-minus"></i>
-                                        <span> <b>Inflamație cronică a ochilor.</b>Inflamația constantă de la alergii sau iritanți poate contribui la distrugerea țesutului corneean care poate duce la dezvoltarea keratoconului. </span>
+                                        <span> <b>Хроническое воспаление глаз.</b>Постоянное воспаление от аллергии или раздражителей может способствовать разрушению ткани роговицы, что может привести к развитию кератоконуса. </span>
                                 <br><br>
                                     </li>
                                
@@ -83,7 +83,7 @@
                             <ul class="services-list">
                                 <li>
                                     <i class="fa fa-minus"></i>
-                                        <span> <b>Frecarea ochilor.</b> Frecarea cronică a ochilor este asociată cu dezvoltarea keratoconului. Poate fi, de asemenea, un factor de risc pentru progresia bolii</span>
+                                        <span> <b>Потирание глаз.</b> Хроническое потирание глаз связано с развитием кератоконуса. Это также может быть фактором риска прогрессирования заболевания.</span>
                                 <br> <br> <br>
                                     </li>
                                
@@ -95,7 +95,7 @@
                             <ul class="services-list">
                                 <li>
                                     <i class="fa fa-minus"></i>
-                                        <span> <b>Vârstă.</b>Keratoconusul este adesea descoperit în anii adolescenței. În general, tinerii cu keratoconus avansat au mai multe șanse să aibă nevoie de intervenție chirurgicală pe măsură ce boala progresează. </span>
+                                        <span> <b>Возраст.</b>Кератоконус часто обнаруживается в подростковом возрасте. В целом, молодые люди с прогрессирующим кератоконусом чаще нуждаются в хирургическом вмешательстве по мере прогрессирования заболевания. </span>
                                 </li>
                                
                                
@@ -110,21 +110,21 @@
                     <div class="row">
                         <div class="col-lg-6 services-detail-inner">
                             <div class="services-detail-text">
-                                <h5>Care sunt simptomele keratoconusului?</h5>
-                              <p>Mulți pacienți cu keratocon nu știu că au boala. Cel mai deseori întâlnit simptom este o ușoară încețoșare a vederii sau o vedere progresivă slabă care nu este ușor de corectat.</p>
+                                <h5>Каковы симптомы кератоконуса?</h5>
+                              <p>Многие пациенты с кератоконусом не знают, что они больны. Наиболее распространенным симптомом является небольшое помутнение зрения или плохое прогрессирующее зрение, которое нелегко исправить.</p>
                               
-                              <p>Alte simptome ale keratoconului includ:</p>
+                              <p>Другие симптомы кератоконуса включают:</p>
 
-                              <li>Strălucire și halouri în jurul luminilor</li>
-                              <li>Dificultate de a vedea noaptea</li>
-                              <li>Iritație oculară sau dureri de cap asociate cu dureri oculare</li>
-                              <li>Sensibilitate crescută la lumina puternică</li>
-                              <li>Înrăutățirea bruscă sau tulburarea vederii</li>
+                              <li>Свечение и ореол вокруг огней</li>
+                              <li>Трудно видеть ночью</li>
+                              <li>Раздражение глаз или головная боль, связанная с болью в глазах</li>
+                              <li>Повышенная чувствительность к яркому свету</li>
+                              <li>Внезапное ухудшение или помутнение зрения</li>
                               <br>
-                              <h6>Cum este diagnosticat keratoconusul?</h6>
-                              <li>Topografia corneei. Acesta este cel mai precis mod de a diagnostica keratoconusul precoce și de a urmări progresia acestuia. Este luată o imagine computerizată care creează o hartă a curbei corneei.</li>
-                              <li>Examen cu lampă cu fantă. Această examinare a corneei poate ajuta la detectarea anomaliilor în straturile externe și mijlocii ale corneei.</li>
-                              <li>Pahimetrie. Acest test este folosit pentru a măsura zonele cele mai subțiri ale corneei.</li>
+                              <h6>Как диагностируется кератоконус?</h6>
+                              <li>Топография роговицы. Это наиболее точный способ диагностики раннего кератоконуса и отслеживания его прогрессирования. Делается компьютеризированное изображение, которое создает карту кривой роговицы.</li>
+                              <li>Осмотр щелевой лампой. Это исследование роговицы может помочь обнаружить аномалии во внешнем и среднем слоях роговицы.</li>
+                              <li>Пахиметрия. Этот тест используется для измерения самых тонких участков роговицы..</li>
                             
                             
                                        
@@ -142,7 +142,7 @@
                 <br> 
                 <div class="row">
                     <div class="col-12" style="text-align: center;">
-                        <a href="empty.php" class="primary-button">Consultare Online </a>
+                        <a href="empty.php" class="primary-button">Онлайн-консультация </a>
                     </div>
                 </div>
             </section>

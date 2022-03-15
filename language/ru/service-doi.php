@@ -11,13 +11,13 @@
                     <div class="row justify-content-center">
                         <div class="col-lg-8">
                             <div class="breadcrumb-inner">
-                                <h1>Lentila De Noapte</h1>
+                                <h1>Ночные Линзы</h1>
                                 <ul class="breadcrumb-links">
                                     <li>
-                                        <a href="index.php">Pricipală</a>
+                                        <a href="index.php">Главная</a>
                                     </li>
                                     <li class="active">
-                                    Lentila De Noapte
+                                    Ночные Линзы
                                     </li>
                                 </ul>
                             </div>
@@ -33,28 +33,28 @@
                     <div class="row">
                         <div class="col-lg-6 services-detail-inner">
                             <div class="services-detail-text">
-                                <h4>Ce reprezintă lentila de noapte?</h4>
+                                <h4>Что такое ночные линзы?</h4>
                                 <p>
-                                Lentila de noapte sau orthokeratologia - este un mijloc de corecție a vederii prin lentila de contact, 
-                                care are efect în timpul nopții, când dormiți și pe timp de zi vă permite sa vedeți clar..
+                                Ночные линзы или ортокератология – это средство коррекции зрения с помощью контактной линзы,
+                                который действует ночью, когда вы спите и днем ​​позволяет вам ясно видеть.
                                 </p>
                                 <ol>
                                     <li> 
-                                        <b>Cum funcționează?</b>
+                                        <b>Как это работает?</b>
                                         <p>
-                                            Lentila influențează stratul superior al corneei. În consecință, refracția razelor luminoase și focalizarea 
-                                            se schimbă / modifica. Imediat, după îndepărtarea lentilei, vederea este înaltă. Aceasta permite pacienților 
-                                            să vadă excelent pe parcursul zilei și apoi să poarte lentilele din nou pe parcursul nopții.
-                                           Fenomenul de modificare a refracției corneei este schimbat exact la nivelul corneei. 
-                                           Dimineața, forma corneei este păstrată, imaginea se focusează pe retină și persoana primește 100% de acuitate vizuala.
+                                        Хрусталик воздействует на верхний слой роговицы. Следовательно, преломление световых лучей и фокусировка
+                                            и изменение. Сразу после снятия линзы вид высокий. Это позволяет пациентам
+                                            отлично видеть днем, а затем снова носить линзы ночью.
+                                           Феномен изменения рефракции роговицы изменяется именно на уровне роговицы.
+                                           Утром форма роговицы сохраняется, изображение фокусируется на сетчатке и человек получает 100% остроту зрения.
                                         </p>
                                  </li>
                                     <li>
-                                        <b>De ce tocmai noaptea?</b>
+                                        <b>Почему именно ночью?/b>
                                         <p>
-                                         Pentru confort: efectul optic se observă după sase - opt ore. Dimineața când scoateți lentila și în decursul zilei,
-                                         vederea rămâne bună. Dupa prima noapte vederea va fi îmbunatățita la 70-75%, dupa cateva nopti efect definitiv de 100% vedere, 
-                                         proces de imbunatatire în creștere. Lentila doar noaptea în timpul somnului modifica corneea atunci cand dormim, datorita formei sale optice
+                                        Для комфорта: оптический эффект наблюдается через шесть-восемь часов. Утром, когда вы снимаете линзы, и в течение дня,
+                                         зрение остается хорошим. После первой ночи зрение улучшится до 70-75%, через несколько ночей окончательный эффект 100% зрения,
+                                         нарастающий процесс совершенствования. Только хрусталик ночью во время сна меняет роговицу, когда мы спим, благодаря своей оптической форме
                                         </p>
                                     </li>
                                 </ol>
@@ -69,17 +69,17 @@
                     </div>
                 </div>
                 <div class="container">
-                    <h4 style="text-align: center;margin: 20px 0px 40px 0px;">Beneficiile Lentilei de noapte:</h4>
+                    <h4 style="text-align: center;margin: 20px 0px 40px 0px;">Преимущества Ночных Линз:</h4>
                     <div class="row" style="justify-content: center;">
                         <div class="col-lg-6 services-detail-inner">
                             <ul class="services-list">
                                 <li>
                                     <i class="fa fa-minus"></i>
-                                        <span>Stopeaza miopia la copii;</span>
+                                        <span>Останавливает близорукость у детей;</span>
                                 </li>
                                 <li>
                                     <i class="fa fa-minus"></i>
-                                        <span>O vedere clara de 100 % în timpul zilei;</span>
+                                        <span>Полностью безболезненное лечение, без аллергии и неприятных ощущений;</span>
                                 </li>
                                
                             </ul>
@@ -89,11 +89,11 @@
                             <ul class="services-list">
                                 <li>
                                     <i class="fa fa-minus"></i>
-                                        <span>O vedere clara de 100 % în timpul zilei; </span>
+                                        <span> 100% четкий обзор в течение дня; </span>
                                 </li>
                                 <li>
                                     <i class="fa fa-minus"></i>
-                                        <span>Făra chirurgie-fără ochelari.</span>
+                                        <span>Без хирургии - без очков.</span>
                                 </li>
                                
                             </ul>
@@ -107,30 +107,30 @@
                     <div class="row">
                         <div class="col-lg-6 services-detail-inner">
                             <div class="services-detail-text">
-                                <h5>Lentilele de ortokeratologie sunt prescrise în două scopuri:</h5>
-                                <li>Pentru corectarea miopiei și astigmatismului;</li>
-                                <li>Pentru a opri miopia la copii.</li>
+                                <h5>Ортокератологические линзы назначают для двух целей:</h5>
+                                <li>Для коррекции близорукости и астигматизма;</li>
+                                <li>Для остановки близорукости у детей.</li>
                                 <p>
-                                 Mulți medici din întreaga lume folosesc astăzi lentile de ortokeratologie pentru a opri miopie la copii și adolescenți.
-                                 Studiile arată că copiii care folosesc lentile de ortokeratologie au o reducere marcată a miopiei în comparație cu copiii
-                                 care folosesc alte tipuri de corecție. <br>
-                                 Prin urmare, astfel de lentile au un alt nume - terapia de refracție (CRT). Acest nume a fost folosit pentru prima dată de 
-                                 compania americană Paragon, care a fost prima din lume care a dezvoltat lentile ortokeratologice pentru purtarea de noapte.
+                                Сегодня многие врачи во всем мире используют ортокератологические линзы для купирования близорукости у детей и подростков.
+                                 Исследования показывают, что дети, которые используют ортокератологические линзы, имеют заметное снижение близорукости по сравнению с детьми.
+                                 которые используют другие виды коррекции. <br>
+                                 Поэтому такие линзы имеют другое название – рефракционная терапия (КРТ). Впервые это название использовал
+                                 американской компании Paragon, которая первой в мире разработала ортокератологические линзы для ночного ношения.
                                 </p>
 
-                                <h6>Ce este terapia refractivă a corneei (CRT)?</h6>
+                                <h6>Что такое роговичная рефракционная терапия (КРТ)?</h6>
                                 <p>
-                                  Paragon CRT (Paragon Vision Sciences) este un brand global de ortokeratologie care a fost primul din lume care a primit
-                                  aprobarea FDA pentru utilizarea peste noapte a lentilelor de ortokeratologie și a dezvoltat tehnologia de proiectare și 
-                                  adaptare personalizată pentru aceste lentile numită terapie refractivă a corneei (CRT). Lentilele Paragon sunt fabricate dintr-un material unic, 
-                                  foarte permeabil la oxigen, care le oferă o siguranță ridicată.
+                                Paragon CRT (Paragon Vision Sciences) — глобальный бренд ортокератологии, который первым в мире получил
+                                  Одобрение FDA для ночного ночного ношения ортокератологических линз, а также разработанных и проектных технологий.
+                                  персонализированная адаптация для этих линз, называемая рефракционной терапией роговицы (CRT). Линзы Paragon изготовлены из уникального материала,
+                                  хорошо проницаемы для кислорода, что придает им высокую безопасность.
                                 </p>
                                 
-                                <h6>Este sigur să te culci cu lentile de ortokeratologie?</h6>
+                                <h6>Безопасно ли спать с ортокератологическими линзами?</h6>
                                 <p>
-                                Într-adevăr, medicii zic întotdeauna că nu ar trebui să te culci cu lentile de contact obișnuite. 
-                                Cu toate acestea, lentilele de ortokeratologie sunt concepute și fabricate din material ultra-permeabil la oxigen, 
-                                ceea ce le permite să fie purtate toată noaptea fără niciun risc suplimentar pentru sănătatea pacientului sau deteriorarea corneei.
+                                Ведь врачи всегда говорят, что с обычными контактными линзами спать нельзя.
+                                Однако ортокератологические линзы разрабатываются и изготавливаются из сверхпроницаемого для кислорода материала.
+                                что позволяет носить их всю ночь без дополнительного риска для здоровья пациента или повреждения роговицы.
                                 </p>
                                 
                             
@@ -150,7 +150,7 @@
                 <br> 
                 <div class="row">
                     <div class="col-12" style="text-align: center;">
-                        <a href="empty.php" class="primary-button">Consultare Online </a>
+                        <a href="empty.php" class="primary-button">Онлайн-консультация </a>
                     </div>
                 </div>
             </section>

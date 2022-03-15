@@ -11,13 +11,13 @@
                     <div class="row justify-content-center">
                         <div class="col-lg-8">
                             <div class="breadcrumb-inner">
-                                <h1>Cataractă</h1>
+                                <h1>Катаракта</h1>
                                 <ul class="breadcrumb-links">
                                     <li>
-                                        <a href="index.php">Pricipală</a>
+                                        <a href="index.php">Главная</a>
                                     </li>
                                     <li class="active">
-                                    Cataractă
+                                    Катаракта
                                     </li>
                                 </ul>
                             </div>
@@ -33,17 +33,17 @@
                     <div class="row">
                         <div class="col-lg-6 services-detail-inner">
                             <div class="services-detail-text">
-                                <h4>Cataracta</h4>
-                                <h6>CUM SE MANIFESTA CATARACTA</h6>
+                                <h4>Катаракта</h4>
+                                <h6>КАК ПРОЯВИТЬ КАТАРАКТУ</h6>
                                 <p>
-                                <b>Cataracta este o afectiune oftalmologica, frecventa, ce determina scaderea progresiva a vederii prin pierderea transparentei cristalinului.</b> <br>
-                                Cataracta poate fi congenitala sau dobandita. Studiile arata ca aproximativ 70% dintre persoanele de peste 65 de ani sufera de aceasta afectiune, existand insa cazuri in care aceasta afectiune poate fi intalnita si la persoane mai tinere.
+                                <b>Катаракта является распространенным заболеванием глаз, которое вызывает прогрессирующее ухудшение зрения из-за потери прозрачности хрусталика.</b> <br>
+                                Катаракта может быть врожденной или приобретенной. Исследования показывают, что примерно 70% людей старше 65 лет страдают от этого состояния, но есть случаи, когда это состояние встречается у молодых людей.
                                 </p>
                                 <p>
-                                Se poate forma pe oricare dintre cele trei straturi ale lentilei: capsula, cortexul sau nucleul. Pe de alta parte, cataractele descoperite in zonele corticale sau nucleare sunt asociate varstelor inaintate. Riscul de a dezvolta cataracte corticale creste, odata cu expunerea excesiva la razele UV.
+                                Он может образоваться на любом из трех слоев хрусталика: капсуле, коре или ядре. С другой стороны, катаракта, обнаруженная в корковых или ядерных областях, связана со старостью. Риск развития кортикальной катаракты увеличивается при чрезмерном воздействии УФ-лучей.
                                 </p>
                                 <p>
-                                In stadiile avansate, netratata, aceasta afectiune poate produce complicatii grave. De cele mai multe ori, ambii ochi sunt afectati, fara ca scaderea vederii sa fie insotita de durere. Pacientul acuza scaderea progresiva a vederii sau incetosarea acesteia. Se poate intampla ca mai multe tipuri de cataracta sa se dezvolte in cadrul aceluiasi ochi. Calitatea vederii poate fi favorizata sau defavorizata, in functie de tipul cataractei, de lumina zilei sau de lumina difuza. Schimbarea ochelarilor, in nenumarate randuri, este un proces facut in zadar in acest caz, pacientul fiind tot mai nemultumit de calitatea vederii sale.
+                                На поздних стадиях без лечения это состояние может вызвать серьезные осложнения. Чаще всего поражаются оба глаза, а потеря зрения сопровождается болью. Больной жалуется на прогрессирующую потерю зрения или нечеткость зрения. Бывает так, что в одном глазу развивается несколько видов катаракты. Качество зрения может быть благоприятным или неблагоприятным, в зависимости от типа катаракты, дневного или рассеянного света. Бесчисленное количество раз менять очки в данном случае бесполезно, поскольку пациент все больше недоволен качеством своего зрения.
                                 </p>
                             </div>
                                 
@@ -56,13 +56,13 @@
                     </div>
                 </div>
                 <div class="container">
-                    <h5 style="text-align: center;margin: 20px 0px 40px 0px;">TIPURI DE <b> CATARACTĂ</b>:</h5>
+                    <h5 style="text-align: center;margin: 20px 0px 40px 0px;">ВИДЫ <b> КАТАРАКТЫ</b>:</h5>
                     <div class="row" style="justify-content: center;">
                         <div class="col-lg-4 services-detail-inner">
                             <ul class="services-list">
                                 <li>
                                     <i class="fa fa-minus"></i>
-                                        <span><b>Cataractă nucleară</b> reprezinta, pe de-o parte, cel mai frecvent tip de cataracta si apare adesea, odata cu inaintarea in varsta. Ea afecteaza atat femeile, cat si barbatii, in acelasi mod.</span>
+                                        <span><b>Ядерная катаракта</b> с одной стороны, это наиболее распространенный тип катаракты и часто возникает с возрастом. Он одинаково влияет как на женщин, так и на мужчин.</span>
                                 </li>
                                
                                
@@ -73,7 +73,7 @@
                             <ul class="services-list">
                                 <li>
                                     <i class="fa fa-minus"></i>
-                                        <span><b>Cataracta de tip cortical</b> se formeaza la nivelul marginii cristalinului sau pe cortex. Acest tip este de cele mai multe ori asociat cu diabetul si este cel mai frecvent intalnit la tineri. </span>
+                                        <span><b>Корковая катаракта</b> она образуется на краю хрусталика или на коре головного мозга. Этот тип чаще всего связан с диабетом и чаще всего встречается у молодых людей. </span>
                                 </li>
                                
                                
@@ -84,7 +84,7 @@
                             <ul class="services-list">
                                 <li>
                                     <i class="fa fa-minus"></i>
-                                        <span><b>Cataractă subcapsulară posterioară</b>:ea se formeaza in spatele sacului/capsulei care mentine lentila in pozitia sa. Mai apare frecvent la persoanele ce sufera de miopie severa si progreseaza cel mai rapid dintre toate. </span>
+                                        <span><b>Задняя субкапсулярная катаракта</b>:она формируется за сумкой/капсулой, удерживающей линзу на месте. Он также часто возникает у людей, страдающих тяжелой близорукостью, и прогрессирует быстрее всех. </span>
                                 </li>
                                
                                
@@ -99,21 +99,21 @@
                     <div class="row">
                         <div class="col-lg-6 services-detail-inner">
                             <div class="services-detail-text">
-                                <h5>TRATAMENTUL CATARACTEI</h5>
+                                <h5>ЛЕЧЕНИЕ КАТАРАКТЫ</h5>
                                 
                                 <p>
-                                 <b>Tratamentul cataractei este exclusiv chirurgical. Specialistul oftalmolog inlocuieste cristalinul cataractat (opacifiat) cu unul artificial, care nu mai poate fi afectat niciodata.</b>.
+                                 <b>Лечение катаракты исключительно хирургическое. Офтальмолог заменяет катарактированный (помутневший) хрусталик на искусственный, на который больше нельзя воздействовать.</b>.
                                 </p>
 
                                 <p>
-                                Tehnologia de astazi este extrem de avansata, facand ca operatia de cataracta sa dureze doar cateva minute. Se face cu anestezie locala, fara internare si nu este dureroasa. Recuperarea vederii este de cele mai multe ori spectaculoasa.
+                                Современные технологии чрезвычайно продвинуты, благодаря чему операция по удалению катаракты длится всего несколько минут. Делается под местной анестезией, без госпитализации и безболезненно. Восстановление зрения часто бывает впечатляющим.
                                 </p>
 
                                 <p>
-                                Operatia cu ultrasunete (facoemulsificarea), cu implant de cristalin artificial foldabil (pliabil) este cea mai moderna metoda de tratament, efectuandu-se printr-o incizie (taietura) atat de mica incat nu este nevoie de sutura (cusatura).
+                                Ультразвуковая хирургия (факоэмульсификация) с имплантом складного искусственного хрусталика (foldable) — самый современный метод лечения, выполняемый посредством надреза (разреза) настолько маленького размера, что не требуется наложение шва (шва).
                                 </p>
                                 <p>
-                                Tratamentul cataractei juvenile depinde de felul in care aceasta interfereaza cu dezvoltarea normala a simtului vizual. In unele cazuri, interventia chirurgicala in randul persoanelor cu cataracta este necesara pentru o alta patologie oftalmologica asociata, precum retinopatia diabetica sau degenerescenta maculara. De asemenea, in unele cazuri, cataracta trebuie indepartata de un oftalmolog specializat in tratamentul bolilor de retina si a nervului optic.
+                                Лечение ювенильной катаракты зависит от того, насколько она мешает нормальному развитию зрительного восприятия. В некоторых случаях операция у людей с катарактой необходима для лечения другого связанного заболевания глаз, такого как диабетическая ретинопатия или дегенерация желтого пятна. Также в некоторых случаях катаракту должен удалять врач-офтальмолог, специализирующийся на лечении заболеваний сетчатки и зрительного нерва.
                                 </p>
                             
                             
@@ -132,7 +132,7 @@
                 <br> 
                 <div class="row">
                     <div class="col-12" style="text-align: center;">
-                        <a href="empty.php" class="primary-button">Consultare Online </a>
+                        <a href="empty.php" class="primary-button">Онлайн-консультация </a>
                     </div>
                 </div>
             </section>

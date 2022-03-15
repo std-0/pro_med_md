@@ -7,13 +7,13 @@
                     <div class="row justify-content-center">
                         <div class="col-lg-8">
                             <div class="breadcrumb-inner">
-                                <h1>Optică medicală</h1>
+                                <h1>Медицинская оптика</h1>
                                 <ul class="breadcrumb-links">
                                     <li>
-                                        <a href="index.php">Pricipală</a>
+                                        <a href="index.php">Главная</a>
                                     </li>
                                     <li class="active">
-                                    Optică Medicală
+                                    Медицинская оптика
                                     </li>
                                 </ul>
                             </div>
@@ -30,10 +30,9 @@
                     <div class="row justify-content-center">
                         <div class="col-lg-6">
                             <div class="section-heading">
-                                <h2 class="section-title">Optică <span>Medicală</span></h2>
+                                <h2 class="section-title">Медицинская <span>оптика</span></h2>
                                 <p class="section-text">
-                                Centrului de Oftalmologie (OftalmoCorrect) Promed si va intampinam cu o gama variata de produse, servicii si informatii despre cele mai frecvente probleme de vedere, optica medicala si optometrie. Misiunea noastra este de a va oferi tot ce aveti nevoie pentru confortul ochilor dumneavoastra. Fie ca afectiunea dumneavoastra este miopie, hipermetropie, astigmatism sau presbiopie ati ajuns in locul potrivit deoarece suntem dispusi sa facem tot posibilul pentru a va imbunatatii vederea si a va oferii confortul.
-                                </p>
+                                Центр офтальмологии (OftalmoCorrect) Мы приветствуем вас широким спектром продуктов, услуг и информации о наиболее распространенных проблемах со зрением, медицинской оптике и оптометрии. Наша миссия - предоставить вам все необходимое для комфорта ваших глаз. Независимо от того, является ли ваше заболевание близорукость, дальнозоркостью, астигматизмом или пресбиопией, вы попали в нужное место, потому что мы готовы сделать все возможное, чтобы улучшить ваше зрение и обеспечить вам комфорт.                                </p>
                             </div>
                         </div>
                     </div>
@@ -45,7 +44,7 @@
                                         <img src="img/echipament/glass_ram.jpg" alt="Team image" class="img-fluid" />
                                     </div>
                                     <div class="body">
-                                        <h6>Rame ochelari</h6>
+                                        <h6>Оправы для очков</h6>
                                        
                                     </div>
                                 </div>
@@ -57,7 +56,7 @@
                                         
                                     </div>
                                     <div class="body">
-                                        <h6>Lentile ochelari</h6>
+                                        <h6>Линзы для очков</h6>
                                        
                                     </div>
                                 </div>
@@ -69,7 +68,7 @@
                                        
                                     </div>
                                     <div class="body">
-                                        <h6>Ochelari de vedere</h6>
+                                        <h6>Очки</h6>
                                        
                                     </div>
                                 </div>
@@ -81,7 +80,7 @@
                                        
                                     </div>
                                     <div class="body">
-                                        <h6>Ochelari de soare</h6>
+                                        <h6>Солнцезащитные Очки</h6>
                                         
                                     </div>
                                 </div>
@@ -92,7 +91,7 @@
                                         <img src="img/echipament/contact_lenses.jpg" alt="Team image" class="img-fluid" />
                                     </div>
                                     <div class="body">
-                                        <h6>Lentile de contact</h6>
+                                        <h6>Контактные линзы</h6>
                                         
                                     </div>
                                 </div>
@@ -103,7 +102,7 @@
                                         <img src="img/echipament/night_lenses.jpg" alt="Team image" class="img-fluid" />
                                     </div>
                                     <div class="body">
-                                        <h6>Lentile de noapte</h6>
+                                        <h6>Ночные линзы</h6>
                                         
                                     </div>
                                 </div>
@@ -114,7 +113,7 @@
                                         <img src="img/echipament/cry_art.jpg" alt="Team image" class="img-fluid" />
                                     </div>
                                     <div class="body">
-                                        <h6>Lacrimi artificiale</h6>
+                                        <h6>Искусственные слезы</h6>
                                         
                                     </div>
                                 </div>
@@ -125,7 +124,7 @@
                                         <img src="img/echipament/accesories.jpg" alt="Team image" class="img-fluid" />
                                     </div>
                                     <div class="body">
-                                        <h6>Accesorii</h6>
+                                        <h6>Аксессуары</h6>
                                         
                                     </div>
                                 </div>

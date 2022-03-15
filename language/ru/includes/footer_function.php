@@ -72,7 +72,7 @@ function footer(){
                                             <a href="service-cinci.php">Окулопластические операции</a>
                                         </li>
                                         <li>
-                                            <a href="service-one.php">Лечение миопии</a>
+                                            <a href="service-one.php">Лечение близорукости</a>
                                         </li>
                                         <li>
                                             <a href="service-ss.php">Лазерные процедуры</a>
@@ -92,7 +92,7 @@ function footer(){
                                             <a href="empty.php">Офтальмологические консультации</a>
                                         </li>
                                         <li>
-                                            <a href="service-one.php">Лечение миопии</a>
+                                            <a href="service-one.php">Лечение близорукости</a>
                                         </li>
                                         <li>
                                             <a href="service-ss.php">Лазерные процедуры</a>

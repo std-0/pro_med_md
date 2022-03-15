@@ -11,13 +11,13 @@
                     <div class="row justify-content-center">
                         <div class="col-lg-8">
                             <div class="breadcrumb-inner">
-                                <h1>Miopie</h1>
+                                <h1>Близорукость</h1>
                                 <ul class="breadcrumb-links">
                                     <li>
-                                        <a href="index.php">Pricipală</a>
+                                        <a href="index.php">Главная</a>
                                     </li>
                                     <li class="active">
-                                    Miopie
+                                    Близорукость
                                     </li>
                                 </ul>
                             </div>
@@ -33,12 +33,12 @@
                     <div class="row">
                         <div class="col-lg-6 services-detail-inner">
                             <div class="services-detail-text">
-                                <h4>MIOPIE</h4>
+                                <h4>Близорукость</h4>
                                 <p>
-                                Miopia este un defect al vederii care se manifestă prin imposibilitatea de a distinge clar obiectele situate la o distanță mai mare. 
-                                Aceasta se întâmplă deoarece razele paralele, ce vin de la un obiect, atunci când traversează globul ocular, se focalizează înaintea retinei, 
-                                permițând doar distingerea obiectelor situate la o distanță mai mică. Globul ocular al persoanelor mioape este mai alungit, 
-                                fiind nevoie de lentile divergente pentru a corecta vederea, deplasând focarul pe retină.
+                                Близорукость – это нарушение зрения, которое проявляется неспособностью четко различать предметы, находящиеся на большем расстоянии.
+                                Это происходит потому, что параллельные лучи, исходящие от объекта, когда он пересекает глазное яблоко, фокусируются перед сетчаткой.
+                                позволяя различать только объекты, расположенные на более коротком расстоянии. Глазное яблоко близоруких людей длиннее,
+                                рассеивающие линзы нужны для коррекции зрения, перенося фокус на сетчатку.
                                 </p>
                                 <h5>CUM AFLAM DACA AVEM MIOPIE?</h5>
                                 <p>Despre simptomele miopiei se discută mult, dar simptomul principal al miopiei îl constituie apariția unor dificultati in vederea la distanță, 

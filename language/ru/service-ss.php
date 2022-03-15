@@ -11,13 +11,13 @@
                     <div class="row justify-content-center">
                         <div class="col-lg-8">
                             <div class="breadcrumb-inner">
-                                <h1>Tratare Laser</h1>
+                                <h1>Лазерное лечение</h1>
                                 <ul class="breadcrumb-links">
                                     <li>
-                                        <a href="index.php">Pricipală</a>
+                                        <a href="index.php">Главная</a>
                                     </li>
                                     <li class="active">
-                                    Tratare Laser
+                                    Лазерное лечение
                                     </li>
                                 </ul>
                             </div>
@@ -34,21 +34,21 @@
                         <div class="col-lg-6 services-detail-inner">
                             <div class="services-detail-text">
                             
-                                <h6>Tratare Laser</h6>
+                                <h6>Лазерное лечение</h6>
                                 <p>
-                                <b>Laser oftalmologic galben LightLas 577 – o noua inovație la Oftalmocorrect Promed</b> <br>
-                               <b>Clinica de Medicină Estetică Laser ProMED</b> folosește sisteme Laser moderne: cel mai nou YAG Laser Fractional Nd & Eb, care este eficient și delicat, fără arsuri traumatice (similar cu laserul CO2), vă permite să eliminați pete, melasma, riduri, cicatrici, vergeturi, tatuaje, de asemenea, proiectat pentru tratamentul acneei, proceduri de întinerire pe față, gât, decolteu și mâini.
+                                <b>Желтый офтальмологический лазер LightLas 577 - новинка компании Ophthalmocorrect Promed</b> <br>
+                               <b>Клиника лазерной эстетической медицины ProMED</b> использует современные лазерные системы: новейший YAG Laser Fractional Nd & Eb, который является эффективным и щадящим, без травмирующих ожогов (аналог CO2-лазера), позволяет удалять пятна, меланодермию, морщины, шрамы, растяжки, татуировки, также предназначенные для лечение угревой сыпи, омолаживающие процедуры на лице, шее, декольте и руках.
                                <br>
-                               YAG Laser Fractional Nd & Eb – proceduri eficiente cu rezultate estetice excelente și o perioadă minimă de reabilitare.
+                               YAG Laser Fractional Nd&Eb – эффективные процедуры с отличным эстетическим результатом и минимальным реабилитационным периодом.
                                 <br>       
                                 </p>
-                                <h6>Principiul de funcționare</h6>
+                                <h6>Принцип действия</h6>
                                 <p>
-                                Totul începe din sala preoperatorie, unde ești pregătit de intervenție, inițial se administrează anestezia locală sub formă de picături, în acest mod operația de cataractă este complet nedureroasă.
+                                Все начинается в предоперационной, где вас готовят к операции, изначально местная анестезия вводится в виде капель, таким образом операция по удалению катаракты проходит совершенно безболезненно.
 
-Apoi urmează operație, durata este variabilă între 5 și 15 minute în dependenţă de cât de avansată este cataracta. Chirurgia cataractei constă în înlocuirea cristalinului opacifiat cu unul transparent.
+                                Затем следует операция, продолжительность которой варьируется от 5 до 15 минут в зависимости от степени запущенности катаракты. Хирургия катаракты заключается в замене непрозрачного хрусталика на прозрачный.
 
-Operația se realizează la un microscop special cu ajutorul unei sonde cu ultrasunet, inciziile sunt foarte mici astfel încât nu necesită sutură, ele se auto sigilează iar recuperarea este foarte rapidă.</p>
+                                Операция проводится под специальным микроскопом с помощью ультразвукового датчика, разрезы очень маленькие, поэтому не требуют наложения швов, самозаживляются, заживление происходит очень быстро.</p>
                             </div>
                                 
                         </div>
@@ -60,26 +60,26 @@ Operația se realizează la un microscop special cu ajutorul unei sonde cu ultra
                     </div>
                 </div>
                 <div class="container">
-                    <h5 style="text-align: center;margin: 20px 0px 40px 0px;">Beneficii</b>:</h5>
+                    <h5 style="text-align: center;margin: 20px 0px 40px 0px;">Преимущества</b>:</h5>
                     <div class="row" style="justify-content: center;">
                         <div class="col-lg-6 services-detail-inner">
                             <ul class="services-list">
                                 <li>
                                     <i class="fa fa-minus"></i>
-                                        <span>Este minim invazivă</span>
+                                        <span>Это минимально инвазивный</span>
                                         
                                     </li><li>
                                     <i class="fa fa-minus"></i>
-                                        <span>Fără suturi și sub anestezie locală</span>
+                                        <span>Без швов и под местной анестезией</span>
                                         
                                     </li>
                                 <li>
                                     <i class="fa fa-minus"></i>
-                                        <span>Dimensiunea inciziei este mai mică de 3 mm</span>
+                                        <span>Размер разреза менее 3 мм</span>
                                 
                                     </li><li>
                                     <i class="fa fa-minus"></i>
-                                        <span>Chirurgia propriu zisă durează maxim 15 minute</span>
+                                        <span>Фактическая операция занимает максимум 15 минут</span>
                                 
                                     </li>
                                
@@ -91,20 +91,20 @@ Operația se realizează la un microscop special cu ajutorul unei sonde cu ultra
                             <ul class="services-list">
                                 <li>
                                     <i class="fa fa-minus"></i>
-                                        <span>Riscul de infecție este redus</span>
+                                        <span>Минимальный риск заражения</span>
                                 </li>
                                 <li>
                                     <i class="fa fa-minus"></i>
-                                        <span>Perioada de recuperare durează câteva zile și cu restricții minime </span>
+                                        <span>Восстановительный период длится несколько дней и с минимальными ограничениями </span>
                                 </li>
 <li>
                                     <i class="fa fa-minus"></i>
-                                        <span>Recuperarea vizuală până la 90%.</span>
+                                        <span>Восстановление зрения до 90%.</span>
                               
                                     </li>
                                     <li>
                                     <i class="fa fa-minus"></i>
-                                        <span>Rezultate immediate si uimitoare</span>
+                                        <span>Мгновенные и потрясающие результаты</span>
                               
                                     </li>
                                
@@ -122,13 +122,13 @@ Operația se realizează la un microscop special cu ajutorul unei sonde cu ultra
                             <div class="services-detail-text">
                                
                                 
-                                <h6>Cum mă pregătesc de operarea cataractei?</h6>
+                                <h6>Как подготовиться к операции по удалению катаракты?</h6>
                                 <p>
-                                Cel mai important aspect este stabilirea diagnosticului. Înainte de toate este nevoie de o consultație prin care să deții dovezi concrete, care vor demonstra că operarea cataractei este necesară, pentru că poate exista o altă problem oftalmologică. La Centrul Medical Oftalmocorrect ProMED veți beneficia de astfel consultație la prețul doar 200 lei.
+                                Самое главное поставить диагноз. В первую очередь нужна консультация, чтобы иметь конкретные показания, которые покажут, что операция по удалению катаракты необходима, потому что может быть другая проблема с глазами. В медицинском центре Ophthalmocorrect ProMED вы получите такую ​​консультацию по цене всего 200 лей.
                                 </p>
                                 <br>
-                                <h6>Când trebuie să mă operez?</h6>
-                                <p>Pe vremuri, când cineva era diagnosticat cu cataractă, i se spunea că trebuie să aștepte ca să “se coacă”, astfel oamenii deveneau orbi, până la operație. În zilele noastre, datorită tehnologiei avansate din cadrul centrului medical Oftalmoccorect ProMED, acum chirurgia cataractei este ușoară și foarte sigură. Prin aplicarea metodei noi de facoemulsificare – nu mai trebuie să aștepți evoluția cataractei (maturizarea), scapi rapid și sigur de cataractă în mai puțin de 20 minute fără riscuri, suturi și spitalizare!</p>
+                                <h6>Когда мне нужна операция?</h6>
+                                <p>Когда-то давно, когда у кого-то диагностировали катаракту, ему сказали, что он должен ждать, пока они «созреют», чтобы люди ослепли перед операцией. В настоящее время, благодаря передовым технологиям медицинского центра Oftalmoccorect ProMED, операция по удалению катаракты стала простой и очень безопасной. Применяя новый метод факоэмульсификации - Вам больше не нужно ждать развития катаракты (созревания), избавиться от катаракты быстро и безопасно менее чем за 20 минут без рисков, швов и госпитализации!</p>
                                
                             
                             
@@ -147,7 +147,7 @@ Operația se realizează la un microscop special cu ajutorul unei sonde cu ultra
                 <br> 
                 <div class="row">
                     <div class="col-12" style="text-align: center;">
-                        <a href="empty.php" class="primary-button">Consultare Online </a>
+                        <a href="empty.php" class="primary-button">Онлайн-консультация </a>
                     </div>
                 </div>
             </section>

@@ -10,13 +10,13 @@
                     <div class="row justify-content-center">
                         <div class="col-lg-8">
                             <div class="breadcrumb-inner">
-                                <h1>Consultare Olnine</h1>
+                                <h1>Consultare Online</h1>
                                 <ul class="breadcrumb-links">
                                     <li>
                                         <a href="index.php">Principală</a>
                                     </li>
                                     <li class="active">
-                                    Consultare Oline
+                                    Consultare Online
                                     </li>
                                 </ul>
                             </div>

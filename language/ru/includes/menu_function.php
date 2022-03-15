@@ -117,7 +117,7 @@ function menu($title){
                                             <a class="dropdown-item" href="service-patru.php">Кератоконус</a>
                                             <a class="dropdown-item" href="service-cinci.php">Оккулопластические операции</a>
                                             <a class="dropdown-item" href="empty.php">Офтальмологические консультации </a>
-                                            <a class="dropdown-item" href="service-one.php">Лечение миопии</a>
+                                            <a class="dropdown-item" href="service-one.php">Лечение близорукости</a>
                                             <a class="dropdown-item" href="service-ss.php">Лазерные процедуры</a>
                                         </div>
                                     </li>

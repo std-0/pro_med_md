@@ -79,7 +79,7 @@
                                 </li>
                                 <li>
                                     <i class="fa fa-minus"></i>
-                                        <span>O vedere clara de 100 % în timpul zilei;</span>
+                                        <span>Tratament complet nedureros, fara alergii sau senzatii neplacute;</span>
                                 </li>
                                
                             </ul>

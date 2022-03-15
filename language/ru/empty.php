@@ -10,13 +10,13 @@
                     <div class="row justify-content-center">
                         <div class="col-lg-8">
                             <div class="breadcrumb-inner">
-                                <h1>Consultare Olnine</h1>
+                                <h1>Онлайн-Консультация</h1>
                                 <ul class="breadcrumb-links">
                                     <li>
-                                        <a href="index.php">Principală</a>
+                                        <a href="index.php">Главная</a>
                                     </li>
                                     <li class="active">
-                                    Consultare Oline
+                                    Онлайн-Консультация
                                     </li>
                                 </ul>
                             </div>
@@ -34,11 +34,11 @@
                             <div class="contact-info-item">
                                 <i class="fa fa-map-marker-alt"></i>
                                 <div class="text">
-                                    <h6>Addresa:</h6>
+                                    <h6>Адрес:</h6>
                                     <a href="https://www.google.com/maps/place/Strada+Ion+Creangă+24,+Chișinău,+Молдавия/@47.0364913,28.8088124,17z/data=!3m1!4b1!4m5!3m4!1s0x40c97dbf6f305e5d:0x3a6804574f0c0cd5!8m2!3d47.0364913!4d28.8110064?hl=ru&authuser=0" target="_blank">
-                                      <span>str.I.Creangă 24/1</span></a> 
+                                      <span> ул.И.Креангэ 24/1</span></a> 
                                     <a href="https://www.google.com/maps/place/Strada+Nicolae+H.+Costin+13,+Chișinău+2051,+Молдавия/@47.0337652,28.7887152,17z/data=!3m1!4b1!4m5!3m4!1s0x40c97deee7df3ed3:0xb009f7cc225f3ccd!8m2!3d47.0337652!4d28.7909092?hl=ru&authuser=0" target="_blank" >
-                                      <span>str.M.Costin 13/1</span></a>
+                                      <span> ул.М.Костин 13/1</span></a>
                                 </div>
                             </div>
                         </div>
@@ -46,7 +46,7 @@
                             <div class="contact-info-item">
                                 <i class="fas fa-mobile-alt"></i>
                                 <div class="text">
-                                    <h6>Contact:</h6>
+                                    <h6>Контакт:</h6>
                                     <a href="tel:37322743413"><span>022 74 34 13</span></a>
                                     <a href="tel:37322445758"><span> 022 44 57 58</span></a> 
                                 </div>
@@ -73,7 +73,7 @@
                                    </a>
                                 </div>
                                 <div class="body">
-                                    <h6>Miopie</h6>
+                                    <h6>Близорукость</h6>
                                  
                                 </div>
                             </div>
@@ -86,7 +86,7 @@
                                 </a>
                                 </div>
                                 <div class="body">
-                                    <h6>Lentila de noapte</h6>
+                                    <h6>Ночные Линзы</h6>
                                   
                                 </div>
                             </div>
@@ -99,7 +99,7 @@
                                  </a>
                                 </div>
                                 <div class="body">
-                                    <h6>Cataracta</h6>
+                                    <h6>Катаракта</h6>
                                  
                                 </div>
                             </div>
@@ -112,7 +112,7 @@
                                 </a>
                                 </div>
                                 <div class="body">
-                                    <h6>Keratoconus</h6>
+                                    <h6>Кератоконус</h6>
                                   
                                 </div>
                             </div>
@@ -125,7 +125,7 @@
                                 </a> 
                                 </div>
                                 <div class="body">
-                                    <h6>Operatii oculo-plastice</h6>
+                                    <h6>Пластическая хирургия глаз</h6>
                                    
                                 </div>
                             </div>
@@ -138,7 +138,7 @@
                                 </a>
                                 </div>
                                 <div class="body">
-                                    <h6>Tratare Laser</h6>
+                                    <h6>Лазерное лечение</h6>
                                   
                                 </div>
                             </div>
@@ -177,13 +177,13 @@
                                         <div class="col-md-12">
                                             <div class="form-group">
                                                 <select name="contact_subject" class="contact-form-control" id="contactSubject">
-                                                    <option value="">Alegeti Serviciul</option>
-                                                    <option value="Miopie">Miopie</option>
-                                                    <option value="Lentilă De Noapte">Lentilă De Noapte</option>
-                                                    <option value="Cataractă">Cataractă</option>
-                                                    <option value="Keratoconus">Keratoconus</option>
-                                                    <option value="Operații Oculo-Plastice">Operații Oculo-Plastice</option>
-                                                    <option value="Tratare Laser">Tratare Laser</option>
+                                                    <option value="">Выберите услугу</option>
+                                                    <option value="Miopie">Близорукость</option>
+                                                    <option value="Lentilă De Noapte">Ночные лины</option>
+                                                    <option value="Cataractă">Катаракта</option>
+                                                    <option value="Keratoconus">Кератоконус</option>
+                                                    <option value="Operații Oculo-Plastice">Окулопластические операции</option>
+                                                    <option value="Tratare Laser">Лазерное лечение</option>
                                                 </select>
                                                 <i class="far fa-bookmark"></i>
                                             </div>
@@ -196,15 +196,15 @@
                                         </div>
                                         <div class="col-md-12">
                                             <div class="contact-alerts">
-                                                <div class="empty-form" style="display: none;"><span>Vă rugăm să completați câmpurile obligatorii</span></div>
-                                                <div class="empty-select" style="display: none;"><span>Vă rugăm să selectați Serviciul</span></div>
+                                                <div class="empty-form" style="display: none;"><span>Пожалуйста, заполните обязательные поля</span></div>
+                                                <div class="empty-select" style="display: none;"><span>Пожалуйста, выберите услугу</span></div>
                                                 <!-- <div class="security-alert" style="display: none;"><span>Security code does not match !</span></div> -->
-                                                <div class="email-invalid" style="display: none;"><span>Vă rugăm introduceți un email.Ex(<a href="mailto:info@pro-med.md"><span>info@pro-med.md</span></a>)</span></div>
-                                                <div class="phone-invalid" style="display: none;"><span>Va rugam sa introduceti un numar de telefon.Ex( 022-74-34-13)</span></div>
+                                                <div class="email-invalid" style="display: none;"><span>Пожалуйста, введите адрес электронной почты.Ex(<a href="mailto:info@pro-med.md"><span>info@pro-med.md</span></a>)</span></div>
+                                                <div class="phone-invalid" style="display: none;"><span>Пожалуйста, введите номер телефона Ex( 022-74-34-13)</span></div>
                                             </div>
                                         </div>
                                         <div class="col-md-12">
-                                            <button type="submit" class="primary-button border-none">TRIMITE</button> 
+                                            <button type="submit" class="primary-button border-none">ОТПРАВИТЬ</button> 
                                         </div>
                                     </div>
                                 </form>
