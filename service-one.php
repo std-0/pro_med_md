@@ -85,13 +85,13 @@
                             <ul class="services-list">
                                 <li>
                                     <i class="fa fa-minus"></i>
-                                        <span><b>Ereditară: </b>
-                                        din cauza la genetică 89% din părinții cu miopie având copii miopi.
+                                        <span><b> Influenta mediului </b>
+                                         asupra muschilor globului ocular.
                                         </span>
                                 </li>
                                 <li>
                                     <i class="fa fa-minus"></i>
-                                        <span><b>Combinație factorilor ereditari cu cei de mediu</b></span>
+                                        <span><b>Contractia </b> excesiva si prelungita a muschiului ciliar</span>
                                 </li>
                                
                             </ul>

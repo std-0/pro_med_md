@@ -84,13 +84,13 @@
                             <ul class="services-list">
                                 <li>
                                     <i class="fa fa-minus"></i>
-                                        <span><b>inheritable: </b>
-                                        Due to Genetics 89% of myopy parents having myopy children.
+                                        <span><b>The influence </b>
+                                        of the environment on the muscles of the eyeball.
                                         </span>
                                 </li>
                                 <li>
                                     <i class="fa fa-minus"></i>
-                                        <span><b>Combination of hereditary factors with the environment</b></span>
+                                        <span><b>Excessive</b> and prolonged contraction of the ciliary muscle</span>
                                 </li>
                                
                             </ul>
