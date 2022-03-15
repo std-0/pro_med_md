@@ -119,7 +119,7 @@
                 <br> 
                 <div class="row">
                     <div class="col-12" style="text-align: center;">
-                        <a href="empty.php" class="primary-button">Онлайн-консультация </a>
+                        <a href="empty.php" class="primary-button">Онлайн консультация </a>
                     </div>
                 </div>
             </section>

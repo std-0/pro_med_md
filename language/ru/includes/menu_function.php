@@ -141,7 +141,7 @@ function menu($title){
                                         </div>
                                     </li> <br>
                                     <li class="nav-item navbar-btn-resp d-flex align-items-center">
-                                        <a href="empty.php" class="outline-button">Онлайн-консультация</a>
+                                        <a href="empty.php" class="outline-button">Онлайн Консультация</a>
                                     </li> 
                                     <br>
                                     

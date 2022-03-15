@@ -10,13 +10,13 @@
                     <div class="row justify-content-center">
                         <div class="col-lg-8">
                             <div class="breadcrumb-inner">
-                                <h1>Онлайн-Консультация</h1>
+                                <h1>Онлайн Консультация</h1>
                                 <ul class="breadcrumb-links">
                                     <li>
                                         <a href="index.php">Главная</a>
                                     </li>
                                     <li class="active">
-                                    Онлайн-Консультация
+                                    Онлайн Консультация
                                     </li>
                                 </ul>
                             </div>

@@ -52,7 +52,7 @@ function footer(){
                                             <a href="about-us.php">О нас</a>
                                         </li>
                                         <li>
-                                            <a href="empty.php">Онлайн-консультация</a>
+                                            <a href="empty.php">Онлайн Консультация</a>
                                         </li>
                                         
                                     </ul>

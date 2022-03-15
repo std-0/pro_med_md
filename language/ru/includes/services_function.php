@@ -30,7 +30,7 @@ function services(){
                                     <p>
                                     Близорукость – это состояние зрения, которое характеризуется неспособностью четко различать предметы, находящиеся на большом расстоянии.
                                     </p>
-                                    <a href="service-one.php">Посмотреть детали<i class="fa fa-arrow-right"></i></a>
+                                    <a href="service-one.php">Посмотреть Детали<i class="fa fa-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -44,7 +44,7 @@ function services(){
                                     <p>
                                         <b>ProMed</b> приходит с чем-то инновационным! Забудьте об очках и контактных линзах! Носите эти линзы на ночь и забудьте об очках на весь день!
                                     </p>
-                                    <a href="service-doi.php">Посмотреть детали<i class="fa fa-arrow-right"></i></a>
+                                    <a href="service-doi.php">Посмотреть Детали<i class="fa fa-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -58,7 +58,7 @@ function services(){
                                     <p>
                                     Vederea afectată de cataractă poate fi tratată cu ajutorul unei noi perechi de ochelari cu o iluminare mult mai puternică.
                                     </p>
-                                    <a href="service-trei.php">Посмотреть детали<i class="fa fa-arrow-right"></i></a>
+                                    <a href="service-trei.php">Посмотреть Детали<i class="fa fa-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -72,7 +72,7 @@ function services(){
                                     <p>
                                     Наш офтальмологический центр был первым центром, который ввел сшивание роговицы - хирургическое лечение. 
                                     </p>
-                                    <a href="service-patru.php">Посмотреть детали<i class="fa fa-arrow-right"></i></a>
+                                    <a href="service-patru.php">Посмотреть Детали<i class="fa fa-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -87,7 +87,7 @@ function services(){
                                      Оценопластические операции это «избыток кожи»  <br>  на верхнем веке, вызванный старением. 
                                      <br>
                                     </p>
-                                    <a href="service-cinci.php">Посмотреть детали<i class="fa fa-arrow-right"></i></a>
+                                    <a href="service-cinci.php">Посмотреть Детали<i class="fa fa-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -101,7 +101,7 @@ function services(){
                                     <p>
                                     Используя современное оборудование, включая лазер для лечения глазных расстройств, без хирургической необходимости
                                     </p>
-                                    <a href="service-ss.php">Посмотреть детали<i class="fa fa-arrow-right"></i></a>
+                                    <a href="service-ss.php">Посмотреть Детали<i class="fa fa-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>

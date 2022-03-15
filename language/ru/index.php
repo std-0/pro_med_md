@@ -97,7 +97,7 @@ services();
                                     </div>
                                 </li>
                             </ul>
-                            <a href="#" class="outline-button">Онлайн-консультация<i class="fa fa-arrow-right"></i></a>
+                            <a href="#" class="outline-button">Онлайн Консультация<i class="fa fa-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
