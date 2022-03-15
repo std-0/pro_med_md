@@ -14,7 +14,7 @@
                                 <h1>Keratoconus</h1>
                                 <ul class="breadcrumb-links">
                                     <li>
-                                        <a href="index.php">Pricipală</a>
+                                        <a href="index.php">Home</a>
                                     </li>
                                     <li class="active">
                                         Keratoconus
@@ -38,9 +38,8 @@
                                 O boală degenerativă neinflamatoare a ochiului în care corneea se subțiază și capătă o formă conică. Keratoconul poate duce la tulburări vizuale severe. Cel mai adesea, pacienții se plâng de fotofobie, vedere dublă, murdărie a imaginii. Boala este cea mai comună formă de distrofie a corneei. Keratoconusul afectează aproximativ o persoană din o mie, indiferent de naționalitate și de locul de reședință. Diagnosticul se pune de obicei în adolescență, iar cursul bolii atinge stadiul cel mai sever la vârsta de douăzeci sau treizeci de ani.
                                 </p>
                                 <p>
-                                Până acum, keratoconusul rămâne o boală puțin studiată, cauzele apariției sale sunt neclare și, de asemenea, nu este posibil să se prezică cursul bolii după diagnostic. Odată cu dezvoltarea keratoconusului la ambii ochi, o persoană poate pierde capacitatea de a conduce o mașină și chiar de a citi texte tipărite într-un font tradițional.
-                                Aproape niciodată keratoconul duce la orbire completă și, în majoritatea cazurilor, vederea poate fi îmbunătățită semnificativ cu ajutorul lentilelor de contact. Dacă boala progresează într-un stadiu mai sever, poate fi necesară o intervenție chirurgicală. Rămânând un mister pentru medici, keratoconusul nu mai reprezintă o problemă pentru pacienți la fel de gravă precum era înainte de dezvoltarea metodelor de terapie, corectarea contactului și apariția microchirurgiei.
-                                </p>
+                                Until now, keratoconus remains a little studied disease, the causes of its appearance are unclear and also it is not possible to predict the course of disease after diagnosis.With the development of keratoconus in both eyes, a person can lose the ability to drive a car and even read printed texts in a traditional font.
+                                Almost never keratocon leads to complete blindness and, in most cases, the vision can be significantly improved by contact lenses.If the disease progresses in a more severe stage, surgery may be necessary.Leaving a mystery for physicians, keratoconus is no longer a problem for equally serious patients as it was before developing therapy methods, contact correction and microsurgical appearance.</p>
                             </div>
                                 
                         </div>
@@ -52,14 +51,14 @@
                     </div>
                 </div>
                 <div class="container">
-                    <h5 style="text-align: center;margin: 20px 0px 40px 0px;">Care sunt factorii de risc pentru keratoconus?</h5>
+                    <h5 style="text-align: center;margin: 20px 0px 40px 0px;">What are the risk factors for keratoconus?</h5>
                     <div class="row" style="justify-content: center;">
 
                         <div class="col-lg-3 services-detail-inner">
                             <ul class="services-list">
                                 <li>
                                     <i class="fa fa-minus"></i>
-                                        <span><b>Genetica.</b> Pacienții cu antecedente familiale de keratoconus sau cu anumite tulburări sistemice, cum ar fi sindromul Down, prezintă un risc mai mare de a dezvolta keratoconus.</span>
+                                        <span><b>Genetics.</b> Patients with familial history of keratoconus or certain systemic disorders, such as Down syndrome, has a higher risk of developing keratoconus.</span>
                                         <br><br>
                                     </li>
                                
@@ -71,7 +70,7 @@
                             <ul class="services-list">
                                 <li>
                                     <i class="fa fa-minus"></i>
-                                        <span> <b>Inflamație cronică a ochilor.</b>Inflamația constantă de la alergii sau iritanți poate contribui la distrugerea țesutului corneean care poate duce la dezvoltarea keratoconului. </span>
+                                        <span> <b>Chronic eye inflammation. </ B> Constant inflammation from allergies or irritants can contribute to the destruction of corneal tissue that can lead to keratocon's development.
                                 <br><br>
                                     </li>
                                
@@ -83,7 +82,7 @@
                             <ul class="services-list">
                                 <li>
                                     <i class="fa fa-minus"></i>
-                                        <span> <b>Frecarea ochilor.</b> Frecarea cronică a ochilor este asociată cu dezvoltarea keratoconului. Poate fi, de asemenea, un factor de risc pentru progresia bolii</span>
+                                        <span> <b>Friction of the eyes.</b> Chronic eye friction is associated with keratocon development.Can also be a risk factor for disease progression</span>
                                 <br> <br> <br>
                                     </li>
                                
@@ -95,7 +94,7 @@
                             <ul class="services-list">
                                 <li>
                                     <i class="fa fa-minus"></i>
-                                        <span> <b>Vârstă.</b>Keratoconusul este adesea descoperit în anii adolescenței. În general, tinerii cu keratoconus avansat au mai multe șanse să aibă nevoie de intervenție chirurgicală pe măsură ce boala progresează. </span>
+                                        <span> <b>Vârstă.</b>Keratoconus is often discovered in the years of adolescence.In general, young keratoconus young people are more likely to need surgery as the disease progresses.</span>
                                 </li>
                                
                                
@@ -110,21 +109,21 @@
                     <div class="row">
                         <div class="col-lg-6 services-detail-inner">
                             <div class="services-detail-text">
-                                <h5>Care sunt simptomele keratoconusului?</h5>
-                              <p>Mulți pacienți cu keratocon nu știu că au boala. Cel mai deseori întâlnit simptom este o ușoară încețoșare a vederii sau o vedere progresivă slabă care nu este ușor de corectat.</p>
+                                <h5>What are keratoconus symptoms?</h5>
+                              <p>Many keratocon patients do not know they have the disease.The most often encountered symptom is a slight blur of vision or poor progressive view that is not easy to correction.</p>
                               
-                              <p>Alte simptome ale keratoconului includ:</p>
+                              <p>Other keratocon symptoms include:</p>
 
-                              <li>Strălucire și halouri în jurul luminilor</li>
-                              <li>Dificultate de a vedea noaptea</li>
-                              <li>Iritație oculară sau dureri de cap asociate cu dureri oculare</li>
-                              <li>Sensibilitate crescută la lumina puternică</li>
-                              <li>Înrăutățirea bruscă sau tulburarea vederii</li>
+                              <li>Shine and halos around the lights</li>
+                              <li>Difficulty seeing the night</li>
+                              <li>Eye irritation or headache associated with eye pain</li>
+                              <li>Increased sensitivity to strong light</li>
+                              <li>The sudden worsening or vision disorder</li>
                               <br>
-                              <h6>Cum este diagnosticat keratoconusul?</h6>
-                              <li>Topografia corneei. Acesta este cel mai precis mod de a diagnostica keratoconusul precoce și de a urmări progresia acestuia. Este luată o imagine computerizată care creează o hartă a curbei corneei.</li>
-                              <li>Examen cu lampă cu fantă. Această examinare a corneei poate ajuta la detectarea anomaliilor în straturile externe și mijlocii ale corneei.</li>
-                              <li>Pahimetrie. Acest test este folosit pentru a măsura zonele cele mai subțiri ale corneei.</li>
+                              <h6>How is keratoconus diagnosed?</h6>
+                              <li>The topography of the cornea.This is the most accurate way to diagnose early keratoconus and to track its progression.A computerized image is taken that creates a map of the cornea curve.</li>
+                              <li>Exam with slot lamp.This examination of the cornea can help detect abnormalities in the external and medium-sized cornea layers.</li>
+                              <li>Pahimetry.This test is used to measure the thinnest areas of the cornea.</li>
                             
                             
                                        
@@ -142,7 +141,7 @@
                 <br> 
                 <div class="row">
                     <div class="col-12" style="text-align: center;">
-                        <a href="empty.php" class="primary-button">Consultare Online </a>
+                        <a href="empty.php" class="primary-button">Online consultation</a>
                     </div>
                 </div>
             </section>

@@ -105,30 +105,30 @@ function menu($title){
                             <div class="collapse navbar-collapse main-menu justify-content-end" id="fixedNavbar">
                                 <ul class="navbar-nav">
                                     <li class="nav-item">
-                                        <a class="nav-link" href="index.php">Principlă</a>
+                                        <a class="nav-link" href="index.php">Home</a>
                                     </li>
                                    
                                     <li class="nav-item dropdown">
                                         <a class="nav-link dropdown-toggle" href="#" id="operatii" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                            Operații oftalmologice
+                                            Ophthalmic operations
                                         </a>
                                         <div class="dropdown-menu" aria-labelledby="operatii">
-                                            <a class="dropdown-item" href="service-trei.php">Operatii de cataracta</a>
+                                            <a class="dropdown-item" href="service-trei.php">Cataract operations</a>
                                             <a class="dropdown-item" href="service-patru.php">Keratoconus</a>
-                                            <a class="dropdown-item" href="service-cinci.php">Operatii oculo-plastice</a>
-                                            <a class="dropdown-item" href="empty.php">Consultatii oftalmologice</a>
-                                            <a class="dropdown-item" href="service-one.php">Tratarea miopiei</a>
-                                            <a class="dropdown-item" href="service-ss.php">Tratamente Laser</a>
+                                            <a class="dropdown-item" href="service-cinci.php">Occuloplastic operations</a>
+                                            <a class="dropdown-item" href="empty.php">Ophthalmic consultations</a>
+                                            <a class="dropdown-item" href="service-one.php">Treating myopia</a>
+                                            <a class="dropdown-item" href="service-ss.php">LASER TREATMENTS</a>
                                         </div>
                                     </li>
                                     
                                     <li class="nav-item">
-                                        <a class="nav-link" href="about-us.php">Despre noi</a>
+                                        <a class="nav-link" href="about-us.php">About us</a>
                                     </li>
 
                                     
                                     <li class="nav-item">
-                                        <a class="nav-link" href="medical_optic.php">Optică Medicală</a>
+                                        <a class="nav-link" href="medical_optic.php">Medical Optics</a>
                                     </li>
                                     <li class="nav-item dropdown">
                                         <a class="nav-link dropdown-toggle" href="index-default-rtl.html#" id="languageDropdownMenu" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -141,7 +141,7 @@ function menu($title){
                                         </div>
                                     </li> <br>
                                     <li class="nav-item navbar-btn-resp d-flex align-items-center">
-                                        <a href="empty.php" class="outline-button">Consultare Online</a>
+                                        <a href="empty.php" class="outline-button">Online consultation</a>
                                     </li> 
                                     <br>
                                     

@@ -12,7 +12,7 @@ function footer(){
                                 <div class="footer-widget">
                                     <h5>Contact</h5>
                                     <p>
-                                        Pentru mai multe informații contactați-ne:
+                                        For more information contact us:
                                     </p>
                                     <ul class="footer-contact-info">
                                         <li>
@@ -43,16 +43,16 @@ function footer(){
                             </div>
                             <div class="col-md-6 col-lg-3">
                                 <div class="footer-widget">
-                                    <h5>Link-uri utile</h5>
+                                    <h5>Useful Links</h5>
                                     <ul class="footer-links">
                                         <li>
-                                            <a href="index.php">Principală</a>
+                                            <a href="index.php">Home</a>
                                         </li>
                                         <li>
-                                            <a href="about-us.php">Despre Noi</a>
+                                            <a href="about-us.php">About us</a>
                                         </li>
                                         <li>
-                                            <a href="empty.php">Consultare Online</a>
+                                            <a href="empty.php">Online consultation</a>
                                         </li>
                                         
                                     </ul>
@@ -60,16 +60,16 @@ function footer(){
                             </div>
                             <div class="col-md-6 col-lg-3">
                                 <div class="footer-widget">
-                                    <h5>Operații Oflalmologice</h5>
+                                    <h5>Ophthalmic operations</h5>
                                     <ul class="footer-links">
                                         <li>
-                                            <a href="service-trei.php">Operații de Cataractă</a>
+                                            <a href="service-trei.php">Cataract operations</a>
                                         </li>
                                         <li>
                                             <a href="service-patru.php">Keratoconus</a>
                                         </li>
                                         <li>
-                                            <a href="service-cinci.php">Operații Oculo-Plastice</a>
+                                            <a href="service-cinci.php">Oculoplastic operations</a>
                                         </li>
                                         
                                     </ul>
@@ -78,16 +78,16 @@ function footer(){
 
                             <div class="col-md-6 col-lg-3">
                                 <div class="footer-widget">
-                                    <h5>Operații Oflalmologice</h5>
+                                    <h5>Ophthalmic operations</h5>
                                     <ul class="footer-links">
                                         <li>
-                                            <a href="empty.php">Consultații Oftalmologice</a>
+                                            <a href="empty.php">Ophthalmological consultations</a>
                                         </li>
                                         <li>
-                                            <a href="service-one.php">Tratarea Miopiei</a>
+                                            <a href="service-one.php">Treating myopia</a>
                                         </li>
                                         <li>
-                                            <a href="service-ss.php">Tratamente Laser</a>
+                                            <a href="service-ss.php">LASER TREATMENTS</a>
                                         </li>
                                         
                                     </ul>
@@ -102,7 +102,7 @@ function footer(){
                         <div class="row align-items-center">
                             <div class="col-md-6">
                                 <p class="copyright-text">
-                                    &copy; 2022.Toate drepturile rezervate.Creat de <a href="https://artweb.md">ArtWeb</a>
+                                    &copy; 2022.All rights reserved.Creat by <a href="https://artweb.md">ArtWeb</a>
                                 </p>
                             </div>
                             <div class="col-md-6">

@@ -11,13 +11,13 @@
                     <div class="row justify-content-center">
                         <div class="col-lg-8">
                             <div class="breadcrumb-inner">
-                                <h1>Tratare Laser</h1>
+                                <h1>Laser treatment</h1>
                                 <ul class="breadcrumb-links">
                                     <li>
-                                        <a href="index.php">Pricipală</a>
+                                        <a href="index.php">Home</a>
                                     </li>
                                     <li class="active">
-                                    Tratare Laser
+                                    Laser treatment
                                     </li>
                                 </ul>
                             </div>
@@ -34,21 +34,21 @@
                         <div class="col-lg-6 services-detail-inner">
                             <div class="services-detail-text">
                             
-                                <h6>Tratare Laser</h6>
+                                <h6>Laser treatment</h6>
                                 <p>
                                 <b>Laser oftalmologic galben LightLas 577 – o noua inovație la Oftalmocorrect Promed</b> <br>
-                               <b>Clinica de Medicină Estetică Laser ProMED</b> folosește sisteme Laser moderne: cel mai nou YAG Laser Fractional Nd & Eb, care este eficient și delicat, fără arsuri traumatice (similar cu laserul CO2), vă permite să eliminați pete, melasma, riduri, cicatrici, vergeturi, tatuaje, de asemenea, proiectat pentru tratamentul acneei, proceduri de întinerire pe față, gât, decolteu și mâini.
+                               <b>The Promed Laser Aestive Medicine Clinic </b> Use modern laser systems: The newest ND & EB fractional laser YAG, which is efficient and delicate, without traumatic burns (similar to the CO2 laser), allows you to remove spots, melasma, wrinkles, Scars, stretch marks, tattoos also designed for acne treatment, face rejuvenation procedures, neck, neckline and hands.
                                <br>
-                               YAG Laser Fractional Nd & Eb – proceduri eficiente cu rezultate estetice excelente și o perioadă minimă de reabilitare.
+                               YAG Laser Fractional Nd & Eb – Effective procedures with excellent aesthetic results and a minimum rehabilitation period.
                                 <br>       
                                 </p>
-                                <h6>Principiul de funcționare</h6>
+                                <h6>The principle of operation</h6>
                                 <p>
-                                Totul începe din sala preoperatorie, unde ești pregătit de intervenție, inițial se administrează anestezia locală sub formă de picături, în acest mod operația de cataractă este complet nedureroasă.
+                           Everything starts from the preoperative hall, where you are prepared for intervention, initially administer local anesthesia in the form of droplets, in this way cataract operation is completely painless.
 
-Apoi urmează operație, durata este variabilă între 5 și 15 minute în dependenţă de cât de avansată este cataracta. Chirurgia cataractei constă în înlocuirea cristalinului opacifiat cu unul transparent.
+Then follow surgery, the duration is variable between 5 and 15 minutes depending on how advanced is the cataract.Cataract surgery consists in replacing opacified crystalline with a transparent one.
 
-Operația se realizează la un microscop special cu ajutorul unei sonde cu ultrasunet, inciziile sunt foarte mici astfel încât nu necesită sutură, ele se auto sigilează iar recuperarea este foarte rapidă.</p>
+The operation is performed at a special microscope with an ultrasound probe, the incisions are very small so they do not require suture, they are self-sealing and recovery is very fast.</p>
                             </div>
                                 
                         </div>
@@ -60,26 +60,26 @@ Operația se realizează la un microscop special cu ajutorul unei sonde cu ultra
                     </div>
                 </div>
                 <div class="container">
-                    <h5 style="text-align: center;margin: 20px 0px 40px 0px;">Beneficii</b>:</h5>
+                    <h5 style="text-align: center;margin: 20px 0px 40px 0px;">BENEFITS</b>:</h5>
                     <div class="row" style="justify-content: center;">
                         <div class="col-lg-6 services-detail-inner">
                             <ul class="services-list">
                                 <li>
                                     <i class="fa fa-minus"></i>
-                                        <span>Este minim invazivă</span>
+                                        <span>Is minimally invasive</span>
                                         
                                     </li><li>
                                     <i class="fa fa-minus"></i>
-                                        <span>Fără suturi și sub anestezie locală</span>
+                                        <span>No sutures and under local anesthesia</span>
                                         
                                     </li>
                                 <li>
                                     <i class="fa fa-minus"></i>
-                                        <span>Dimensiunea inciziei este mai mică de 3 mm</span>
+                                        <span>The incision size is less than 3 mm</span>
                                 
                                     </li><li>
                                     <i class="fa fa-minus"></i>
-                                        <span>Chirurgia propriu zisă durează maxim 15 minute</span>
+                                        <span>Surgery itself takes a maximum of 15 minutes</span>
                                 
                                     </li>
                                
@@ -91,20 +91,20 @@ Operația se realizează la un microscop special cu ajutorul unei sonde cu ultra
                             <ul class="services-list">
                                 <li>
                                     <i class="fa fa-minus"></i>
-                                        <span>Riscul de infecție este redus</span>
+                                        <span>The risk of infection is reduced</span>
                                 </li>
                                 <li>
                                     <i class="fa fa-minus"></i>
-                                        <span>Perioada de recuperare durează câteva zile și cu restricții minime </span>
+                                        <span>Recovery period takes several days and minimal restrictions </span>
                                 </li>
 <li>
                                     <i class="fa fa-minus"></i>
-                                        <span>Recuperarea vizuală până la 90%.</span>
+                                        <span>Visual recovery up to 90%.</span>
                               
                                     </li>
                                     <li>
                                     <i class="fa fa-minus"></i>
-                                        <span>Rezultate immediate si uimitoare</span>
+                                        <span>Immediate and amazing results</span>
                               
                                     </li>
                                
@@ -122,13 +122,12 @@ Operația se realizează la un microscop special cu ajutorul unei sonde cu ultra
                             <div class="services-detail-text">
                                
                                 
-                                <h6>Cum mă pregătesc de operarea cataractei?</h6>
+                                <h6>How do I prepare for cataracts?</h6>
                                 <p>
-                                Cel mai important aspect este stabilirea diagnosticului. Înainte de toate este nevoie de o consultație prin care să deții dovezi concrete, care vor demonstra că operarea cataractei este necesară, pentru că poate exista o altă problem oftalmologică. La Centrul Medical Oftalmocorrect ProMED veți beneficia de astfel consultație la prețul doar 200 lei.
-                                </p>
+                               The most important aspect is the diagnosis.First of all, it is necessary to consult concrete evidence, which will demonstrate that cataract operation is necessary, because there may be another ophthalmic problem.At the Medical Ophtalmocorrect Promed Center, you will receive consultation at only 200 lei. </p>
                                 <br>
-                                <h6>Când trebuie să mă operez?</h6>
-                                <p>Pe vremuri, când cineva era diagnosticat cu cataractă, i se spunea că trebuie să aștepte ca să “se coacă”, astfel oamenii deveneau orbi, până la operație. În zilele noastre, datorită tehnologiei avansate din cadrul centrului medical Oftalmoccorect ProMED, acum chirurgia cataractei este ușoară și foarte sigură. Prin aplicarea metodei noi de facoemulsificare – nu mai trebuie să aștepți evoluția cataractei (maturizarea), scapi rapid și sigur de cataractă în mai puțin de 20 minute fără riscuri, suturi și spitalizare!</p>
+                                <h6>When should I operate?</h6>
+                                <p>In the old days, when someone was diagnosed with cataract, he said he had to wait to "bake", so people became blind, until surgery.Nowadays, thanks to the advanced technology of the Medical Center Ophtalmoccorect Promed, now cataract surgery is easy and very safe.By applying the new method of facoemulsification - you no longer have to wait for the evolution of cataracts (maturation), rapidly and secure cataract in less than 20 minutes without risks, sutures and hospitalization!</p>
                                
                             
                             
@@ -147,7 +146,7 @@ Operația se realizează la un microscop special cu ajutorul unei sonde cu ultra
                 <br> 
                 <div class="row">
                     <div class="col-12" style="text-align: center;">
-                        <a href="empty.php" class="primary-button">Consultare Online </a>
+                        <a href="empty.php" class="primary-button">Online consultation </a>
                     </div>
                 </div>
             </section>

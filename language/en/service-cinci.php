@@ -11,13 +11,13 @@
                     <div class="row justify-content-center">
                         <div class="col-lg-8">
                             <div class="breadcrumb-inner">
-                                <h1>Operatii Oculo-Plastice</h1>
+                                <h1>Oculo-plastic operationse</h1>
                                 <ul class="breadcrumb-links">
                                     <li>
-                                        <a href="index.php">Pricipală</a>
+                                        <a href="index.php">Main</a>
                                     </li>
                                     <li class="active">
-                                    Operatii Oculo-Plastice
+                                    Occuloplastic operations
                                     </li>
                                 </ul>
                             </div>
@@ -33,17 +33,14 @@
                     <div class="row">
                         <div class="col-lg-6 services-detail-inner">
                             <div class="services-detail-text">
-                                <h5>Prezentare generală a chirurgiei Oculo-Plastice</h5>
+                                <h5>Overview of oculo-plastic surgery</h5>
                                 <p>
-                                Orice intervenție chirurgicală efectuată pentru a corecta deformările și/sau malformațiile ochilor și ale componentelor înconjurătoare poate fi denumită chirurgie oculoplastică. Sunt incluse structuri precum orbitul osos al ochiului, pleoapele și canalele lacrimale, precum și obrajii și pielea din zona adiacentă.                                </p>
+                                Any surgery performed to correct the deformities and / or malformations of the eyes and the surrounding components may be called oculoplastic surgery.Structures such as the bone orbit of the eye, eyelids and lacrimal channels, as well as cheeks and skin in the adjacent area are included.</ p><p>
+                                A combination of reconstruction and plastic surgery can be carried out by specialized ophthalmologists or oculoplast surgeons to restore the function and shape of the tissues involved.Oculoplastic procedures can be classified as functional and reconstructive eyelid operations, lacrimal channel operations and surgical and non-surgical cosmetic operations.</p>
+                                <h6> Directions</h6>
                                 <p>
-                                O combinație de reconstrucție și chirurgie plastică poate fi efectuată de oftalmologi specializați sau chirurgi oculoplastici pentru a restabili funcția și forma țesuturilor implicate. Procedurile oculoplastice pot fi clasificate ca operații funcționale și reconstructive ale pleoapelor, operații ale canalului lacrimal și operații cosmetice chirurgicale și nechirurgicale. 
-                                </p>
-                                <h6> Indicații </h6>
-                                <p>
-                                Există multe afecțiuni care justifică intervenția chirurgicală oculoplastică. Leziunile sau anomaliile ochiului însuși, sprâncenele, pleoapele, orbitele, obrajii și fruntea sunt principalele indicații pentru chirurgia oculoplastică.
-                                Anomaliile faciale sau ale frunții includ cancere și excrescențe în jurul sau în ochi, ptoză (adică pleoapele căzute), slăbiciune a mușchilor faciali cauzată de afecțiuni precum paralizia lui Bell sau probleme oculare care apar din boli precum boala Grave.
-                               </p>
+                                There are many diseases justifying oculoplastic surgery.The lesions or anomalies of the eye itself, eyebrows, eyelids, orbits, cheeks and forehead are the main indications for oculoplastic surgery.
+                                Facial or forehead abnormalities include cancers and excrescences around or in the eye, ptoose (ie fallen eyelids), weakness of facial muscles caused by diseases such as Bell's paralysis or eye problems that occur in diseases such as serious illness.</p>
                             </div>
                                 
                         </div>
@@ -55,28 +52,28 @@
                     </div>
                 </div>
                 <div class="container">
-                    <h5 style="text-align: center;margin: 20px 0px 40px 0px;">Chirurgie funcțională și reconstructivă a pleoapelor</h5>
+                    <h5 style="text-align: center;margin: 20px 0px 40px 0px;">Functional and reconstructive eyelid surgery</h5>
                     <div class="row" style="justify-content: center;">
 
                         <div class="col-lg-12 services-detail-inner">
                             <ul class="services-list">
                                 <li>
                                     <i class="fa fa-minus"></i>
-                                        <span>Chirurgia oculoplastică funcțională și reconstructivă se concentrează pe tratamentul și corectarea ptozei,
-                                             a pleoapelor mal poziționate, a reconstrucției pleoapelor după leziuni, a leziunilor pleoapelor și a paraliziei Bell.
-                                              Ptoza poate fi congenitală sau dobândită din cauza unor afecțiuni precum bătrânețea sau utilizarea pe termen lung a 
-                                              lentilelor de contact, precum și leziunile plexului cervical. <br>
-                                               Abordările luate în considerare pentru corectarea ptozei 
-                                              depind de amploarea căderii pleoapelor, iar majoritatea pacienților se recuperează destul de repede de la intervenție chirurgicală.
+                                        <span>Functional and reconstructive oculoplastic surgery focuses on the treatment and correction of PTOze,
+                                             of the chopped eyelids, the reconstruction of the eyelids after lesions, eyelid lesions and Bell paralysis.
+                                              Ptoza may be congenital or acquired due to diseases such as old age or long-term use of
+                                              Contact lenses as well as cervical plexus lesions.br
+                                               Approaches taken into account for Ptoze's Correction
+                                              dependent on the magnitude of the eyelid, and most patients are recovering quite quickly from surgery.
                                               <br>
-                                              Pleoapele poziționate inadecvat pot fi văzute ca întoarcerea (adică entropionul) sau în afara (adică ectropionul) a pleoapelor.
-                                               Acest lucru necesită o intervenție chirurgicală pentru a readuce pleoapele în poziția lor fiziologică pentru a funcționa în capacitatea lor normală, 
-                                               care protejează suprafața ochilor. Îndepărtarea tumorilor de pe pleoape, sau leziunile care decurg din traumatisme, sunt adesea indicații 
-                                               pentru intervenția chirurgicală funcțională și reconstructivă a pleoapelor cu ajutorul grefelor de țesut și a lambourilor. <br>
-                                               Chisturile, orzicul, alunițele și etichetele cutanate sunt printre cele mai frecvente leziuni benigne care necesită îndepărtarea de pe pleoape.
-                                                La pacienții cu paralizie Bell, afectarea celui de-al șaptelea nerv cranian poate duce la slăbiciune a feței, afectând uni sau bilateral 
-                                                capacitatea de a clipi și de a închide pleoapele. Atât tehnicile chirurgicale, cât și cele nechirurgicale pot fi folosite pentru
-                                                a îmbunătăți funcționalitatea pleoapelor, precum și simptomele.
+                                              The inappropriately positioned eyelids can be seen as the return (ie entropion) or outside (ie Etropion) of the eyelids.
+                                               This requires surgery to restore the eyelids to their physiological position to function in their normal ability,
+                                               that protects the eye surface. Removing tumors on the eyelids, or injuries arising from trauma, are often directions
+                                               for the functional and reconstructive surgery of the eyelids using the tissue grafts and the flags. br
+                                               Cysts, oraser, moles and cutaneous labels are among the most common benign lesions that require removal from the eyelids.
+                                                In patients with Bell paralysis, damage to the seventh cranial nerve can lead to weakness of the face, affecting uni or bilateral
+                                                the ability to blink and close the eyelids. Both surgical and non-surgical techniques can be used for
+                                                improve the functionality of eyelids as well as symptoms.
                                             </span>
                                        
                                     </li>
@@ -95,25 +92,23 @@
                     <div class="row">
                         <div class="col-lg-6 services-detail-inner">
                             <div class="services-detail-text">
-                                <h5>Obstrucția canalului lacrimal</h5>
-                              <p>Intervențiile chirurgicale ale canalelor lacrimale sau lacrimale sunt necesare atunci când există leziuni ale permeabilității sau 
-                                  obstrucție a canalelor, care drenează suprafețele ochilor. Unii pacienți pot avea obstrucția canalelor lacrimale de mulți ani fără semne majore,
-                                   dar există un risc semnificativ crescut de formare a abceselor și infecție acută a sacului lacrimal.</p>
+                                <h5>Obstruction of the lacrimal channel</h5>
+                              <p>Surgical interventions of lacrimal or lacrimal channels are required when there are lesions of permeability or
+                                  Obstruction of channels, draining eye surfaces.Some patients may have the obstruction of lacrimal channels for many years without major signs,
+                                   But there is a significantly increased risk of combining abscesses and acute lacrimal bag infection.</p>
 
-                               <p>Dacă, de exemplu, există o infecție acută a sacului lacrimal, atunci se administrează antibiotice timp de aproximativ o săptămână. 
-                                   Aceasta poate fi urmată de o intervenție chirurgicală pentru a trata obstrucția ductului lacrimal care se deschide de obicei în cavitatea nazală.
-                                    Aici este creat un nou pasaj pentru ca lacrimile să se scurgă ușor</p>
+                               <p>If, for example, there is an acute lacrimal bag infection, then antibiotics are administered for about a week.
+                                   This can be followed by surgery to treat the obstruction of lacrimal ducts that usually opens in the nasal cavity.
+                                    Here a new passage is created for tears to drain easily</p>
 
-                                    <h5>Operatii cosmetice chirurgicale si nechirurgicale</h5>
+                                    <h5>Surgical and non-surgical cosmetics</h5>
                                     <p>
-                                    Operațiile cosmetice chirurgicale pot fi folosite pentru blefaroplastie, care se face pentru a repara forma și tonul pleoapelor care se lasă și se 
-                                    slăbesc pe măsură ce îmbătrânim. Mușchiul lax, grăsimea bombată și excesul de piele pot fi îndepărtate pentru a obține efectul dorit - un aspect mai tânăr.
-                                    </p>
+                                   Surgical cosmetic operations can be used for blepharoplasty, which is done to repair the shape and tone of the eyelids left and
+                                    weaken as we grow old.Lax muscle, bulging fat and excess skin can be removed to get the desired effect - a younger look.</p>
                                     <p>
-                                    Pe lângă blefaroplastie, există și liftingul feței a sprâncenelor și a frunții, precum și îmbunătățirea pliului pleoapelor. 
-                                    Pacienții care optează pentru căile cosmetice nechirurgicale pot utiliza umpluturi dermice (de exemplu, geluri hialuronice), 
-                                    neuromodulatoare (de exemplu, Botox) și grefe de grăsime injectabile și/sau transferuri de la abdomen pe față.
-                                    </p>
+                                   In addition to blepharoplasty, there is also the lifting of the face of the eyebrows and the forehead, as well as improving the fold of the eyelids.
+                                    Patients opting for non-surgical cosmetic pathways can use dermal fillers (eg hyaluronic gels),
+                                    Neuromodulators (e.g., Botox) and injectable fat grafts and / or abdomen transfers on the face. </p>
 
                              
                               
@@ -134,7 +129,7 @@
                 <br> 
                 <div class="row">
                     <div class="col-12" style="text-align: center;">
-                        <a href="empty.php" class="primary-button">Consultare Online </a>
+                        <a href="empty.php" class="primary-button">Online consultation </a>
                     </div>
                 </div>
             </section>

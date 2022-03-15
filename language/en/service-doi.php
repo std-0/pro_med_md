@@ -11,10 +11,10 @@
                     <div class="row justify-content-center">
                         <div class="col-lg-8">
                             <div class="breadcrumb-inner">
-                                <h1>Lentila De Noapte</h1>
+                                <h1>The night lens</h1>
                                 <ul class="breadcrumb-links">
                                     <li>
-                                        <a href="index.php">Pricipală</a>
+                                        <a href="index.php">Home</a>
                                     </li>
                                     <li class="active">
                                     Lentila De Noapte
@@ -33,30 +33,26 @@
                     <div class="row">
                         <div class="col-lg-6 services-detail-inner">
                             <div class="services-detail-text">
-                                <h4>Ce reprezintă lentila de noapte?</h4>
+                                <h4>What is the night lens?</h4>
                                 <p>
-                                Lentila de noapte sau orthokeratologia - este un mijloc de corecție a vederii prin lentila de contact, 
-                                care are efect în timpul nopții, când dormiți și pe timp de zi vă permite sa vedeți clar..
-                                </p>
+                              The night lens or orthokeratology - is a means of correction of vision through the contact lens,
+                                which has effect during the night, when you sleep and daytime lets you see clearly ..  </p>
                                 <ol>
                                     <li> 
-                                        <b>Cum funcționează?</b>
+                                        <b>How does it work?</b>
                                         <p>
-                                            Lentila influențează stratul superior al corneei. În consecință, refracția razelor luminoase și focalizarea 
-                                            se schimbă / modifica. Imediat, după îndepărtarea lentilei, vederea este înaltă. Aceasta permite pacienților 
-                                            să vadă excelent pe parcursul zilei și apoi să poarte lentilele din nou pe parcursul nopții.
-                                           Fenomenul de modificare a refracției corneei este schimbat exact la nivelul corneei. 
-                                           Dimineața, forma corneei este păstrată, imaginea se focusează pe retină și persoana primește 100% de acuitate vizuala.
-                                        </p>
+                                            The lens influences the upper layer of the cornea.Consequently, the refraction of the bright rays and focus
+                                            changes / change.Immediately, after removal of the lens, the sight is high.This allows patients
+                                            To see excellent during the day and then wear the lenses again overnight.
+                                           The phenomenon of changing the corneal refraction is changed exactly at the cornea.
+                                           In the morning, the shape of the cornea is kept, the image focuses on the retina and the person receives 100% visual acuity.</p>
                                  </li>
                                     <li>
-                                        <b>De ce tocmai noaptea?</b>
+                                        <b>Why exactly at night?</b>
                                         <p>
-                                         Pentru confort: efectul optic se observă după sase - opt ore. Dimineața când scoateți lentila și în decursul zilei,
-                                         vederea rămâne bună. Dupa prima noapte vederea va fi îmbunatățita la 70-75%, dupa cateva nopti efect definitiv de 100% vedere, 
-                                         proces de imbunatatire în creștere. Lentila doar noaptea în timpul somnului modifica corneea atunci cand dormim, datorita formei sale optice
-                                        </p>
-                                    </li>
+                                        For comfort: the optical effect is observed after six - eight hours.In the morning when you remove the lens and during the day,
+                                         The sight remains good.After the first night the vision will be improved at 70-75% after a few nights definitive 100% view,
+                                         process of increasing improvement.The lens only at night while sleeping changes the cornea when we sleep due to its optical shapei>
                                 </ol>
                             </div>
                                 
@@ -69,17 +65,17 @@
                     </div>
                 </div>
                 <div class="container">
-                    <h4 style="text-align: center;margin: 20px 0px 40px 0px;">Beneficiile Lentilei de noapte:</h4>
+                    <h4 style="text-align: center;margin: 20px 0px 40px 0px;">Benefits of night lens:</h4>
                     <div class="row" style="justify-content: center;">
                         <div class="col-lg-6 services-detail-inner">
                             <ul class="services-list">
                                 <li>
                                     <i class="fa fa-minus"></i>
-                                        <span>Stopeaza miopia la copii;</span>
+                                        <span>Stops myopia in children;</span>
                                 </li>
                                 <li>
                                     <i class="fa fa-minus"></i>
-                                        <span>O vedere clara de 100 % în timpul zilei;</span>
+                                        <span>A Clara view of 100% during the day;</span>
                                 </li>
                                
                             </ul>
@@ -89,11 +85,11 @@
                             <ul class="services-list">
                                 <li>
                                     <i class="fa fa-minus"></i>
-                                        <span>O vedere clara de 100 % în timpul zilei; </span>
+                                        <span>A Clara view of 100% during the day; </span>
                                 </li>
                                 <li>
                                     <i class="fa fa-minus"></i>
-                                        <span>Făra chirurgie-fără ochelari.</span>
+                                        <span>Face surgery-no glasses.</span>
                                 </li>
                                
                             </ul>
@@ -107,31 +103,29 @@
                     <div class="row">
                         <div class="col-lg-6 services-detail-inner">
                             <div class="services-detail-text">
-                                <h5>Lentilele de ortokeratologie sunt prescrise în două scopuri:</h5>
-                                <li>Pentru corectarea miopiei și astigmatismului;</li>
-                                <li>Pentru a opri miopia la copii.</li>
+                                <h5>Orthogenesis lenses are prescribed in two purposes:</h5>
+                                <li>To correct myopia and astigmatism;</li>
+                                <li>To stop myopia in children.</li>
                                 <p>
-                                 Mulți medici din întreaga lume folosesc astăzi lentile de ortokeratologie pentru a opri miopie la copii și adolescenți.
-                                 Studiile arată că copiii care folosesc lentile de ortokeratologie au o reducere marcată a miopiei în comparație cu copiii
-                                 care folosesc alte tipuri de corecție. <br>
-                                 Prin urmare, astfel de lentile au un alt nume - terapia de refracție (CRT). Acest nume a fost folosit pentru prima dată de 
-                                 compania americană Paragon, care a fost prima din lume care a dezvoltat lentile ortokeratologice pentru purtarea de noapte.
+                                Many doctors around the world are using orthogeratology lenses today to stop myopia in children and adolescents.
+                                 Studies show that children using orthogeneology lenses have a marked reduction in myopia compared to children
+                                 that use other types of correction.<br>
+                                 Therefore, such lenses have another name - refractive therapy (CRT).This name was first used by
+                                 The American Paragon company, which was the first in the world that developed orthogeneous lenses for night wearing.
                                 </p>
 
-                                <h6>Ce este terapia refractivă a corneei (CRT)?</h6>
+                                <h6>What is corneal refractive therapy(CRT)?</h6>
                                 <p>
-                                  Paragon CRT (Paragon Vision Sciences) este un brand global de ortokeratologie care a fost primul din lume care a primit
-                                  aprobarea FDA pentru utilizarea peste noapte a lentilelor de ortokeratologie și a dezvoltat tehnologia de proiectare și 
-                                  adaptare personalizată pentru aceste lentile numită terapie refractivă a corneei (CRT). Lentilele Paragon sunt fabricate dintr-un material unic, 
-                                  foarte permeabil la oxigen, care le oferă o siguranță ridicată.
-                                </p>
+                                 Paragon CRT (Paragon Vision Sciences) is a global orthogeratology brand that was the first in the world that received
+                                  FDA approval for overnight use of orthogeneology lenses and developed design technology and
+                                  Custom adaptation for these lenses called Cornea Refractive Therapy (CRT).Paragon lenses are made of a unique material,
+                                  Very permeable to oxygen, which gives them high safety. </p>
                                 
-                                <h6>Este sigur să te culci cu lentile de ortokeratologie?</h6>
+                                <h6>Is safe to sleep with orthogeratology lenses?</h6>
                                 <p>
-                                Într-adevăr, medicii zic întotdeauna că nu ar trebui să te culci cu lentile de contact obișnuite. 
-                                Cu toate acestea, lentilele de ortokeratologie sunt concepute și fabricate din material ultra-permeabil la oxigen, 
-                                ceea ce le permite să fie purtate toată noaptea fără niciun risc suplimentar pentru sănătatea pacientului sau deteriorarea corneei.
-                                </p>
+                               Indeed, doctors always say you should not sleep with the usual contact lenses.
+                                However, orthogenesis lenses are designed and manufactured from ultra-permeable oxygen,
+                                What allows them to be worn all night without any additional risk to the patient's health or corneal damage.</p>
                                 
                             
                             
@@ -150,7 +144,7 @@
                 <br> 
                 <div class="row">
                     <div class="col-12" style="text-align: center;">
-                        <a href="empty.php" class="primary-button">Consultare Online </a>
+                        <a href="empty.php" class="primary-button">Online consultation</a>
                     </div>
                 </div>
             </section>

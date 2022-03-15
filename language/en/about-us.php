@@ -11,13 +11,13 @@
                     <div class="row justify-content-center">
                         <div class="col-lg-8">
                             <div class="breadcrumb-inner">
-                                <h1>DESPRE NOI</h1>
+                                <h1>ABOUT US</h1>
                                 <ul class="breadcrumb-links">
                                     <li>
-                                        <a href="index.php">Pricipală</a>
+                                        <a href="index.php">Home</a>
                                     </li>
                                     <li class="active">
-                                    Despre Noi
+                                    About us
                                     </li>
                                 </ul>
                             </div>
@@ -36,43 +36,43 @@
                         </div>
                         <div class="col-lg-6 skills-inner">
                             <div class="inner-text">
-                                <h4> <span>Istoric</span></h4>
+                                <h4> <span>Historic</span></h4>
                                 <p>
-                                    <b>PROMED</b>  a fost înființat în Chișinău, în iulie anul 2004. Centrul Medical s-a consacrat pe piața autohtonă 
-                                    precum un centru medical specializat în domeniul oftalmologic.
+                                    <b>PROMED</b>  was set up in Chisinau in July 2004. The Medical Center enshrined in the domestic market
+                                    Like a specialized medical center in the field of ophthalmologic.
                                 </p>
                                 <p>
-                                S-a axat pe un serviciu medical privat, ceea ce înseamnă calitate și o colaborare deschisă între instituție și pacient. 
-                                În cei 11 ani de activitate, a fost creată o echipă din reputați medici specialiști, au fost procurate echipamente performante,
-                                 la nivelul standartelor de calitate europene, iar rezultatele semnificative obținute în implimentarea metodelor revoluționare, 
-                                 au deschis noi orizonturi.
+                                He focused on a private medical service, which means quality and open collaboration between the institution and the patient.
+                                In the 11 years of activity, a team of reputable specialists were created, high performance equipment was procured,
+                                 At the level of European quality standards, and the significant results achieved in the implementation of revolutionary methods,
+                                 They opened new horizons.
                                 <br>
-                                Solicitările complexe ale pacienților a angajat activitatea centrului într-o nouă competiție: de a oferi mai mult decât oftalmologie!
+                               Complex patient demands hired the Center's activity in a new competition: to offer more than ophthalmology!
                                <br>
-                                Astfel, în anul 2009, Centrul Medical cuprindea cabinete consultative, de diagnostic și tratament cu profil oftalmologic și cu profil
-                                 medical aferent oftalmologiei: neurologie, ORL, pediatrie, fizioterapie, medicină internă, endocrinologie, homeopatie.
+                                Thus, in 2009, the Medical Center included consultative cabinets, diagnostic and ophthalmic and profile treatment
+                                 Medical Ophthalmology: Neurology, ORL, Pediatrics, Physiotherapy, Internal Medicine, Endocrinology, Homeopathy.
                                 <br>
-                                În anul 2011, PROMED a mai făcut un pas în extinderea serviciilor sale prin inaugurarea cabinetului de chirurgie laser, destinat patologiilor 
-                                dermato-cosmetologice - LaserMed. În anul 2012 au fost deschise cabinetele de USG și ginecologie.
+                               In 2011, Promed took a step in expanding his services by inaugurating the Laser Surgery Cabinet for pathologies
+                                dermato-cosmetology - lasermed.In 2012, the USG and Gynecology Cabinets were opened.
                                 <br>
-                                În anul 2015, Centrului Medical OftalmoCorrect devine PROMED. Noua denumire a apărut din dorința de dezvoltare continuă și de a răspunde 
-                                nevoilor de diversificare, prin extinderea celor existente.
+                                In 2015, the Medical Ophthalmocorrect Center becomes Promed.The new name appeared from the desire for continuous development and responding
+                                diversification needs by extending existing ones.
                                 </p>
                                 <p>
-                                Astfel, managementul centrului medical a decis completarea portofoliului de servicii cu dezvoltarea a trei direcții de activitate:
+                               Thus, the management of the medical center decided to complete the service portfolio with the development of three directions of activity:
                                 <li>
                                 <b>
-                                Centrul de Oftalmologie
+                                Ophthalmology Center
                                 </b>
-                                - Investigații, tratamente și chirurgie oculară
+                               - Investigations, treatments and eye surgery
                                 </li>
                                 <li>
                                     <b>
-                                    Centrul de Estetică și Chirurgie Laser
+                                Center for aesthetic and laser surgery
                                     </b>
-                                    -Tratamente laser și dermato-cosmetologice
+                                  - Laser and dermato-cosmetology
                                 </li> <br>
-                                PROMED își propune să faciliteze accesul la un sistem integrat de servicii medicale și își propune să dezvolte fiecare activitate în parte, fără să știrbească din specificul ei.
+                               Promed aims to facilitate access to an integrated healthcare system and aims to develop each activity in part without stirring from its specifics.
                                 </p>
                             </div>
                          
@@ -90,32 +90,32 @@
                         </div>
                         <div class="col-lg-6 skills-inner">
                             <div class="inner-text">
-                                <h4>De ce să alegi <span>Pro-Med.md</span></h4>
+                                <h4>Why choose <span>Pro-Med.md</span></h4>
                                 <p>
-                                    Suntem responsabili: ne asumăm corectitudinea prescripției pentru ochelari sau lentile de contact. 
+                                   We are responsible: we assume the correctness of prescription for glasses or contact lenses.
                                 </p>
                             </div>
                             <ul>
                                 <li>
                                     <i class="fas fa-eye"></i></i>
                                     <div class="text">
-                                        <h6>CEL MAI CUPRINZĂTOR ȘI DETALIAT CONSULT AL OCHILOR</h6>
+                                        <h6>The most comprehensive and detailed eye consultation</h6>
                                         <p>
-                                            Minim 25 de minute, 15 etape ale consultului; Evaluarea vederii binoculare (3D); Măsurarea fiecărui parametru individual al ochilor cu iProfiler ZEISS
+                                         Minimum 25 minutes, 15 stages of the consultation;Evaluation of binocular view (3D);Measurement of each individual eye parameter with iprofiler Zeiss
                                         </p>
                                     </div>
                                 </li>
                                 <li>
                                     <i class="fas fa-eye"></i></i>
                                     <div class="text">
-                                        <h6>EMPATIE, SERIOZITATE, PROFESIONALISM, SINCERITATE</h6>
+                                        <h6>Empathy, Seriousness, Professionalism, Sincerity</h6>
                                         <p>
-                                            Valorile fiecărui membru al colectivului Pro-Med
+                                           The values of each member of the Pro-Med College
                                         </p>
                                     </div>
                                 </li>
                             </ul>
-                            <a href="#" class="outline-button">Consultație online<i class="fa fa-arrow-right"></i></a>
+                            <a href="#" class="outline-button">Online consultation<i class="fa fa-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
