@@ -56,7 +56,7 @@ function services(){
                                 <div class="body">
                                     <h6>Cataract</h6>
                                     <p>
-                                   Cataract-affected view can be treated with a new pair of glasses with a much stronger illumination.
+                                   Cataract-affected view can be treated with a new pair of glasses with a much stronger illumination. <br> <br>
                                     </p>
                                     <a href="service-trei.php">View details<i class="fa fa-arrow-right"></i></a>
                                 </div>
